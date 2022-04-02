@@ -1,0 +1,15 @@
+FORTIFICATION (EXTENSION)
+Avantage : augmente la solidité d’une salle
+Création : 8 Marchandises, 7 Travail (300 po) ; Durée 30 jours
+Taille : comme la salle d’origine
+Cette extension peut s’appliquer à n’importe quelle salle. Elle permet de renforcer les murs, d’améliorer la solidité des portes et de traiter ou de remplacer les matériaux inflammables. Lors de l’achat de cette extension, la solidité des murs de la salle est augmentée de +2, le bois des portes est plus solide (solidité 5, points de résistance 20) et les parois et le sol bénéficient d’une résistance au feu 5. Cette extension ne s’applique pas aux objets
+contenus dans la pièce (par exemple, la fortification d’une bibliothèque affecte sa structure et non les livres qu’elle contient).
+
+AMEUBLEMENT (EXTENSION)
+Recettes : +5 au test de la salle effectué pour produire des capitaux.
+Création : 9 Marchandises, 6 Travail (300 po) ; Durée 20 jours
+Taille : comme la salle d’origine
+Cette extension permet de garnir une salle avec des éléments décoratifs, tels que des lambris, un revêtement de sol en marbre, des tasses à thé en porcelaine, des peintures d’un grand réalisme et des lits à baldaquin. La décoration est adaptée à la fonction de la salle et du bâtiment. Par exemple, si cette extension est appliquée à un bar fréquenté par des soldats, elle se composera de blasons patriotiques et de placards à la mémoire des héros de guerre.
+
+PIÈGE (EXTENSION)
+Le prix d’une extension de piège dans une salle est le même que celui d’une salle piégée ; voir salle piégée page 106.

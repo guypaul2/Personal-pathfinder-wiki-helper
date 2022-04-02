@@ -1,0 +1,68 @@
+GUILDE D’ARTISANS 
+Création. 8 Marchandises, 10 Influence, 14 Travail (740 po) 
+Employés 1 bureaucrate, 2 artisans, 2 travailleurs 
+Des artisans et leurs assistants qui produisent des marchandises de qualité.
+
+CHASSEURS DE PRIMES 
+Création. 8 Marchandises, 8 Influence, 10 Travail (600 po) 
+Employés 1 archer, 1 bureaucrate, 1 conducteur d’attelage 
+Des combattants formés pour traquer et capturer les criminels et les fugitifs.
+
+BANDE DE GROS-BRAS 
+Création. 7 Marchandises, 8 Influence, 13 Travail (640 po) 
+Employés 1 cambrioleurs, 2 soldats 
+Une bande de professionnels armés qui jouent les gros-bras au nom de votre personnage.
+
+CABALE 
+Création. 16 Marchandises, 12 Influence, 8 Travail, 24 Magie (3 240 po) 
+Employés 4 apprentis-mages, 1 mage, 1 sage 
+Un groupe d’étude composé de confrères et d’apprentis voués aux mystères et aux recherches magiques.
+
+CARAVANIERS 
+Création. 6 Marchandises, 3 Influence, 7 Travail (350 po) 
+Employés 1 conducteur d’attelage, 1 garde, 1 travailleur 
+Des voyageurs formés au chargement, au transport et au déchargement de marchandises à l’aide d’animaux, de chariots et de navires.
+
+CULTE 
+Création. 15 Marchandises, 11 Influence, 17 Travail, 18 Magie (2 770 po) 
+Employés 4 acolytes, 2 gardes, 1 curé 
+Un culte dissident ou une société secrète dont les membres considèrent que la religion de votre personnage est la seule qui vaille.
+
+SUITE 
+Création. 6 Marchandises, 9 Influence, 7 Travail (530 po) 
+Employés 1 bureaucrate, 1 conducteur d’attelage, 2 laquais 
+Des amis et des flagorneurs qui s’occupent de la logistique liée aux repas, au sommeil, aux voyages et aux divertissements de votre personnage.
+
+CLUB DE COMBAT 
+Création. 5 Marchandises, 7 Influence, 10 Travail (510 po) 
+Employés 1 conducteur d’attelage, 1 garde, 1 travailleur, 1 laquai, 1 fraudeur 
+Une association éventuellement illégale composée d’amateurs de combat à mains nues.
+
+GROUPE DE CHASSEURS 
+Création. 5 Marchandises, 6 Influence, 11 Travail (500 po) 
+Employés 1 archer, 1 travailleur, 1 laquai 
+Des guides et des assistants formés au loisir de la chasse.
+
+COMPAGNIE DE MERCENAIRES 
+Création. 18 Marchandises, 13 Influence, 25 Travail, 6 Magie (1 850 po) 
+Employés 1 archer d’élite, 2 soldats d’élite, 1 curé 
+Un groupe de combattants armés et loyaux envers votre personnage. Ce dernier les rémunère pour protéger ses biens et pour combattre.
+
+ÉQUIPAGE DE NAVIRE 
+Création. 1 Marchandises, 2 Influence, 4 Travail (160 po) 
+Employés 1 travailleur, 1 marin L’équipage d’un petit voilier.
+
+TROUPE DE THÉÂTRE 
+Création. 15 Marchandises, 17 Influence, 13 Travail, 20 Magie (3 070 po) 
+Employés 5 apprentis-mages, 1 bureaucrate, 1 artisan, 1 travailleur 
+Une troupe de théâtre ou un groupe similaire composé de comédiens, de costumiers et de décorateurs.
+
+GUILDE DE VOLEURS 
+Création. 4 Marchandises, 15 Influence, 12 Travail (770 po) 
+Employés 2 tire-laine, 1 cambrioleur, 1 fraudeur, 1 soldat 
+Une bande de malfrats et de criminels qui commettent des actes illégaux.
+
+VAGABONDS 
+Création. 10 Marchandises, 13 Influence, 13 Travail, 7 Magie (1 550 po)
+Employés 1 acolyte, 1 apprenti-mage, 1 tire-laine, 2 conducteurs d’attelage, 1 garde, 1 travailleur, 1 fraudeur 
+Des nomades répugnants spécialisés dans les spectacles magiques, la bonne aventure, les jeux truqués et la confection de remèdes de charlatan. 

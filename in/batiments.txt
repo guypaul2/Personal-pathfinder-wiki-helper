@@ -1,0 +1,294 @@
+ACADÉMIE 
+Création. 120 Marchandises, 16 Influence, 109 Travail, 3 Magie (5 360 po) 
+Salles 1 laboratoire d’alchimie, 2 salles de bain, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 dôme d’observation, 2 bureaux, 1 scriptorium, 1 salon, 1 statue. 
+Un établissement d’enseignement supérieur.
+
+ALCHIMISTE 
+Création. 48 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 940 po) 
+Salles 1 laboratoire d’alchimie, 1 chambre à coucher, 1 jardin, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage. 
+Le laboratoire et la demeure d’un fabricant de potions, de poisons et de produits alchimiques.
+
+APPARTEMENT 
+Création. 41 Marchandises, 16 Influence, 41 Travail (2 120 po) 
+Salles 4 dortoirs, 1 cuisine, 1 latrines, 1 bureau, 1 remise 
+Un bâtiment où sont logés un grand nombre de personnes contre un loyer modique.
+
+ARÈNE 
+Création. 109 Marchandises, 20 Influence, 96 Travail, 1 Magie (4 800 po)
+Salles 1 bar, 1 salle de bain, 1 jardin, 4 salles de combat, 1 salle de jeux, 1 infirmerie, 1 latrines, 1 bureau, 1 remise, 1 étalage. 
+Un grand édifice public conçu pour y organiser des compétitions, des démonstrations, des sports d’équipe ou des combats.
+
+ATELIER DE PRODUITS EXOTIQUES 
+Création. 44 Marchandises, 1 Influence, 41 Travail (1 730 po) 
+Salles 1 atelier d’artisan, 1 chambre à coucher, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage 
+L’atelier et la demeure d’un créateur d’objets magiques ou de feux d’artifice, d’un souffleur de verre ou d’un artisan similaire.
+
+AUBERGE 
+Création. 52 Marchandises, 5 Influence, 47 Travail (2 130 po) 
+Salles 1 bar, 1 salle de bain, 1 chambre à coucher, 1 salle commune, 1 cuisine, 1 latrines, 1 logement, 1 stabulation, 1 étalage 
+Un endroit où les voyageurs peuvent se restaurer et se reposer.
+
+BANQUE 
+Création. 39 Marchandises, 3 Influence, 35 Travail (1 570 po) 
+Salles 1 poste de garde, 2 bureaux, 1 pièce secrète, 1 étalage, 2 chambres fortes 
+Un bâtiment sécurisé, conçu pour stocker de la monnaie et des objets précieux et pour octroyer des prêts aux gens dans le besoin.
+
+BIBLIOTHÈQUE 
+Création. 29 Marchandises, 4 Influence, 28 Travail, 2 Magie (1 460 po) 
+Salles 2 bibliothèques, 1 salle commune, 1 bureau, 1 remise 
+Un grand bâtiment où sont archivés des livres.
+
+BOUTIQUE 
+Création. 14 Marchandises, 1 Influence, 12 Travail (550 po) 
+Salles 1 latrines, 1 bureau, 1 remise, 1 étalage 
+Un commerce ordinaire.
+
+BOUTIQUE DE LUXE 
+Création. 28 Marchandises, 1 Influence, 22 Travail (1 030 po) 
+Salles 1 ameublement (étalage), 1 bureau, 1 remise, 1 étalage, 1 chambre forte 
+Une boutique spécialisée dans la vente de produits chers et luxueux.
+
+BOUTIQUE DE MAGIE 
+Création. 40 Marchandises, 1 Influence, 33 Travail, 1 Magie (1 590 po) 
+Salles 1 ameublement (étalage), 1 bureau, 1 reliquaire, 1 remise, 1 étalage, 2 chambres fortes 
+Une boutique spécialisée dans la vente et l’achat d’objets magiques, de sorts et de remèdes magiques.
+
+BRASSERIE 
+Création. 36 Marchandises, 3 Influence, 32 Travail (1 450 po) 
+Salles 1 bar, 1 brasserie, 1 cuisine, 1 bureau, 2 remises, 1 poste de travail
+Un bâtiment conçu pour le brassage de la bière et de l’ale, pour la vinification, la distillation ou diverses utilisations similaires.
+
+CASERNE 
+Création. 80 Marchandises, 18 Influence, 73 Travail, 1 Magie (3 700 po) 
+Salles 2 armureries, 1 chambre à coucher, 2 dortoirs, 1 salle commune, 1 dojo, 1 poste de garde, 1 infirmerie, 1 cuisine, 1 latrines, 1 bureau, 1 remise 
+Un bâtiment conçu pour accueillir des gardes, des miliciens ou d’autres types de soldats.
+
+CATHÉDRALE 
+Création. 91 Marchandises, 12 Influence, 84 Travail, 11 Magie (4 960 po) 
+Salles 1 autel, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 cellule, 1 salle de cérémonie, 1 confessionnal, 1 cour, 1 crypte, 1 jardin, 1 bureau, 1 reliquaire, 1 sanctuaire, 1 salon, 1 statue, 1 remise 
+Un centre d’activités religieuses et spirituelles.
+
+CHÂTEAU 
+Création. 165 Marchandises, 31 Influence, 148 Travail, 2 Magie (7 390 po) 
+Salles 2 armureries, 3 chambres à coucher, 2 dortoirs, 1 cellule, 1 cour, 1 crypte, 4 murs défensifs, 1 pont-levis, 1 issue de secours, 1 jardin, 1 bretèche, 1 salle à mâchicoulis, 1 cuisine, 1 latrines, 1 bureau, 1 salon, 1 stabulation, 2 remises 
+Une demeure fortifiée élaborée, la retraite d’un noble ou le cœur défensif d’une communauté.
+
+CIMETIÈRE 
+Création. 18 Marchandises, 12 Influence, 19 Travail, 5 Magie (1 600 po) 
+Salles 3 sites funéraires, 1 crypte, 1 statue 
+Un lopin de terre où les morts sont enterrés et honorés.
+
+COMMERCE 
+Création. 19 Marchandises, 1 Influence, 16 Travail (730 po) 
+Salles 1 latrines, 1 remise, 1 étalage, 1 poste de travail 
+Une devanture derrière laquelle travaille un artisancommerçant, comme un boulanger ou un boucher.
+
+COMPLEXE DE BUREAUX 
+Création. 55 Marchandises, 6 Influence, 52 Travail, 1 Magie (2 420 po) 
+Salles 1 bibliothèque, 1 latrines, 4 bureaux, 2 scriptoriums, 1 salon, 2 remises 
+Une importante suite de bureaux occupés par des clercs et des greffiers travaillant pour une guilde ou un gouvernement.
+
+ÉCOLE 
+Création. 58 Marchandises, 5 Influence, 53 Travail (2 370 po) 
+Salles 1 clocher, 2 salles de classe, 1 salle commune, 1 cour, 1 cuisine, 1 latrines, 1 bureau, 2 remises, 1 poste de travail 
+Un endroit où l’on éduque les enfants et les adolescents.
+
+ÉCOLE DE BARDES 
+Création. 107 Marchandises, 13 Influence, 109 Travail, 1 Magie (4 810 po) 
+Salles 1 auditorium, 2 salles de bain, 1 chambre à coucher, 1 bibliothèque, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 cuisine, 1 latrines, 2 bureaux, 1 scriptorium, 1 salon, 1 statue, 1 remise 
+Un centre d’enseignement dans le domaine des arts visuels et liés au spectacle, à la littérature, à la musique et aux traditions.
+
+ÉCOLE DE LA MAGIE 
+Création. 121 Marchandises, 17 Influence, 110 Travail, 5 Magie (5 630 po) 
+Salles 1 laboratoire d’alchimie, 2 salles de bain, 1 chambre à coucher, 1 clocher, 1 dortoir, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 bibliothèque magique, 1 observatoire, 2 bureaux, 1 scriptorium, 1 salon, 1 statue 
+Une institution où des étudiants sont formés aux arts magiques.
+
+ÉCOLE MILITAIRE 
+Création. 142 Marchandises, 16 Influence, 129 Travail, 2 Magie (6 100 po) 
+Salles 1 armurerie, 1 salle de bain, 1 chambre à coucher, 1 clocher, 1 bibliothèque, 1 cellule, 2 salles de classe, 1 salle commune, 1 cour, 1 dojo, 1 serre, 1 infirmerie, 1 cuisine, 1 latrines, 1 logement, 2 bureaux, 1 scriptorium, 1 salon, 1 statue, 1 remise, 1 salle de guerre 
+Une institution dédiée à l’étude des arts de la guerre et à l’entraînement des soldats et des officiers d’élite.
+
+ÉCURIE 
+Création. 42 Marchandises, 3 Influence, 39 Travail (1 710 po) 
+Salles 1 enclos, 1 champ, 1 latrines, 1 bureau, 2 stabulations, 1 remise
+Un endroit où l’on prend soin des chevaux et de diverses autres montures destinées à la vente.
+
+ENCLOS À BÉTAIL 
+Création. 42 Marchandises, 4 Influence, 37 Travail (1 700 po) 
+Salles 4 enclos, 1 latrines, 1 bureau, 1 fosse, 1 remise, 1 poste de travail 
+Les étables et les enclos où l’on rassemble et prépare le bétail avant de l’emmener à l’abattoir.
+
+FERME 
+Création. 53 Marchandises, 1 Influence, 50 Travail (2 090 po) 
+Salles 1 enclos, 1 chambre à coucher, 1 champ, 1 jardin, 1 cuisine, 1 latrines, 1 salon 
+Une petite ferme ou un ranch familial.
+
+FORGE 
+Création. 18 Marchandises, 1 Influence, 17 Travail (730 po) 
+Salles 1 forge, 1 bureau, 2 remises 
+Un forgeron qui fabrique des armures, des armes ou une quantité d’autres objets en fer.
+
+FORT 
+Création. 136 Marchandises, 25 Influence, 124 Travail, 1 Magie (6 050 po) 
+Salles 2 armureries, 1 chambre à coucher, 2 dortoirs, 1 cellule, 1 salle commune, 1 cour, 3 murs défensifs, 1 dojo, 2 fortifications (dans la salle commune et la bretèche), 1 bretèche, 1 infirmerie, 1 cuisine, 1 latrines, 1 bureau, 1 remise, 1 salle de guerre 
+Un avant-poste fortifié occupé par des bandits, des mercenaires, des soldats ou de dangereux humanoïdes.
+
+FRONT DE MER 
+Création. 63 Marchandises, 10 Influence, 56 Travail (2 680 po)
+Salles 2 enclos, 4 quais, 1 bureau, 4 remises, 1 poste de travail 
+Un complexe portuaire pour gérer les départs et les arrivées de marchandises et de passagers par voie fluviale ou maritime et pour construire des navires.
+
+GARNISON 
+Création. 126 Marchandises, 32 Influence, 112 Travail, 1 Magie (5 820 po) 
+Salles 4 armureries, 2 chambres à coucher, 4 dortoirs, 1 salle commune, 1 dojo, 1 poste de garde, 1 infirmerie, 1 cuisine, 1 latrines, 2 bureaux, 2 remises 
+Un grand bâtiment conçu pour accueillir des soldats, pour entraîner des gardes et recruter des miliciens ; il est plus grand et plus polyvalent qu’une caserne.
+
+GRANGE 
+Création. 30 Marchandises, 30 Travail (1 200 po) 
+Salles 10 remises 
+Un endroit où l’on stocke du grain et de la nourriture.
+
+HERBORISTE 
+Création. 52 Marchandises, 1 Influence, 48 Travail (2 030 po) 
+Salles 1 atelier d’artisan, 1 chambre à coucher, 1 serre, 1 cuisine, 1 latrines, 1 salon, 1 remise, 1 étalage 
+L’atelier et la demeure d’un jardinier, d’un guérisseur, d’un empoisonneur ou d’un fabricant de potions.
+
+HÔPITAL 
+Création. 45 Marchandises, 4 Influence, 43 Travail, 2 Magie (2 080 po) 
+Salles 1 salle de bain, 1 salle commune, 2 infirmeries, 1 latrines, 1 bureau, 1 statue, 1 remise, 1 étalage, 1 poste de travail
+Un bâtiment conçu pour soigner des malades.
+
+HÔTEL DE LA MONNAIE 
+Création. 49 Marchandises, 2 Influence, 45 Travail (1 940 po) 
+Salles 1 atelier d’artisan, 1 fortification (chambre forte), 1 poste de garde, 1 latrines, 1 bureau, 1 remise, 2 chambres fortes 
+Un bâtiment sécurisé où l’on frappe la monnaie et dans lequel sont conservés les étalons en matière de poids et de mesures.
+
+HÔTEL DE VILLE 
+Création. 23 Marchandises, 2 Influence, 23 Travail (980 po) 
+Salles 1 salle commune, 1 latrines, 1 bureau, 1 scriptorium, 1 remise 
+Un lieu où se déroulent les réunions ouvertes au public et où sont stockées les archives de la communauté.
+
+MAISON 
+Création. 32 Marchandises, 1 Influence, 31 Travail (1 290 po) 
+Salles 1 chambre à coucher, 1 cuisine, 1 latrines, 1 accès aux égouts, 1 salon, 1 remise 
+Une petite chaumière qui peut accueillir jusqu’à deux adultes ou une famille.
+
+MAISON DE LA GUILDE 
+Création. 67 Marchandises, 66 Travail (2 660 po) 
+Salles 1 salle commune, 1 cuisine, 1 latrines, 2 bureaux, 1 pièce secrète, 1 salon, 2 remises, 3 postes de travail 
+Le siège d’une guilde ou d’une association similaire.
+
+MANOIR 
+Création. 132 Marchandises, 4 Influence, 120 Travail (5 160 po) 
+Salles 1 bar, 1 salle de bain, 4 chambres à coucher, 1 issue de secours, 2 ameublements (chambre à coucher et salon), 1 cuisine, 1 lavoir, 1 latrines, 1 logement, 1 bureau, 1 pièce secrète, 2 salons, 1 stabulation, 2 remises 
+Un gigantesque manoir occupé par une famille riche et ses domestiques.
+
+MARCHÉ NOIR 
+Création. 53 Marchandises, 6 Influence, 48 Travail (2 200 po) 
+Salles 1 armurerie, 1 cellule, 1 issue de secours, 1 société de façade, 1 poste de garde, 1 bureau, 1 pièce secrète, 1 remise, 1 chambre forte 
+Une boutique secrète dans laquelle s’achètent et se vendent des marchandises illicites, dangereuses et suspectes.
+
+MONASTÈRE 
+Création. 58 Marchandises, 15 Influence, 53 Travail, 6 Magie (3 270 po) 
+Salles 1 autel, 1 salle de bain, 1 bibliothèque, 1 dortoir, 1 cour, 1 crypte, 1 jardin, 1 cuisine, 1 lavoir, 1 latrines, 1 bureau, 2 sanctuaires, 1 scriptorium 
+Un cloître dédié à la méditation et à l’étude.
+
+MONUMENT 
+Création. 10 Marchandises, 8 Travail (360 po) 
+Salles 1 ameublement (statue), 1 statue 
+La statue d’une personne célèbre, un monument à la mémoire des soldats tombés au combat ou une œuvre d’art publique.
+
+MOULIN 
+Création. 17 Marchandises, 16 Travail (660 po) 
+Salles 1 meule, 1 bureau, 2 remises 
+Un bâtiment conçu pour débiter du bois ou moudre du grain.
+
+MUSÉE 
+Création. 47 Marchandises, 5 Influence, 43 Travail, 1 Magie (2 050 po)
+Salles 1 poste de garde, 1 bureau, 1 reliquaire, 2 statues, 2 remises, 1 étalage, 2 salles des trophées, 1 chambre forte 
+Un lieu où sont exposés des œuvres d’art et des artefacts contemporains et historiques.
+
+OBSERVATOIRE 
+Création. 32 Marchandises, 4 Influence, 31 Travail, 2 Magie (1 580 po) 
+Salles 1 bibliothèque, 1 latrines, 1 dôme d’observation, 1 bureau, 1 scriptorium, 1 remise 
+Un dôme haut perché ou une haute tour dotée d’appareils optiques pour observer le ciel.
+
+ORPHELINAT 
+Création. 63 Marchandises, 7 Influence, 62 Travail, 1 Magie (2 810 po) 
+Salles 1 chambre à coucher, 1 dortoir, 1 salle de classe, 1 salle commune, 1 cour, 1 infirmerie, 1 cuisine, 1 lavoir, 1 latrines, 1 crèche, 1 bureau, 2 remises 
+Un endroit dans lequel on prend soin d’un grand nombre d’orphelins.
+
+PALAIS 
+Création. 453 Marchandises, 42 Influence, 421 Travail, 9 Magie (19 640 po) 
+Salles 1 autel, 1 salle de bal, 1 bar, 2 salles de bain, 6 chambres à coucher, 1 dortoir, 1 cellule, 1 salle commune, 2 cours, 1 crypte, 6 murs défensifs, 1 issue de secours, 6 ameublements (dans la salle de bal, deux chambres à coucher, un bureau, un salon et la salle du trône), 1 jardin, 1 bretèche, 2 cuisines, 1 labyrinthe, 1 lavoir, 2 latrines, 2 logements, 2 bureaux, 1 sanctuaire, 3 pièces secrètes, 3 salons, 1 terrain de sport, 4 stabulations, 2 statues, 6 remises, 1 salle du trône, 1 salle des trophées, 2 chambres fortes, 1 salle de guerre.
+Un édifice et des terres grandioses qui démontrent la richesse, le pouvoir et l’autorité de ses occupants au monde entier.
+
+PALAIS DE JUSTICE 
+Création. 43 Marchandises, 2 Influence, 41 Travail, 1 Magie (1 840 po) 
+Salles 1 bibliothèque, 2 cellules, 1 salle commune, 2 bureaux, 1 salon 
+Un bâtiment où les témoins sont entendus et les affaires de justice réglées selon la loi par des juges généralement impartiaux.
+
+PRISON 
+Création. 40 Marchandises, 5 Influence, 33 Travail (1 610 po) 
+Salles 4 cellules, 1 poste de garde, 1 bureau, 1 remise, 1 chambre de torture 
+Un édifice fortifié dans lequel on enferme les criminels.
+
+QUAI 
+Création. 22 Marchandises, 3 Influence, 20 Travail (930 po) 
+Salles 1 enclos, 1 quai, 1 bureau, 2 remises 
+Des entrepôts et des ateliers pour décharger les bateaux et accueillir leurs marchandises et leurs passagers.
+
+SALLE DE BAL 
+Création. 53 Marchandises, 1 Influence, 53 Travail (2 150 po) 
+Salles 1 Salle de bal, 1 Bar, 1 Salle commune, 1 Latrines, 1 Bureau, 1 Salon, 1 Remise 
+Un établissement dans lequel on danse, on boit et on flirte avec des gens séduisants. C’est souvent un endroit où les membres de différentes classes sociales se mélangent en toute discrétion, parfois en portant des masques ou d’autres déguisements.
+
+SANCTUAIRE 
+Création. 3 Marchandises, 1 Influence, 4 Travail, 1 Magie (270 po) 
+Salles 1 autel, 1 dstatue 
+Un autel, une idole, une clairière sacrée ou un site religieux similaire.
+
+TANNERIE 
+Création. 20 Marchandises, 1 Influence, 20 Travail (830 po) 
+Salles 1 lavoir, 1 latrines, 1 atelier de tanneur, 1 bureau, 1 fosse, 1 remise 
+Un bâtiment où l’on traite les peaux pour en faire du cuir.
+
+TAVERNE 
+Création. 22 Marchandises, 1 Influence, 22 Travail (910 po) 
+Salles 1 bar, 1 salle commune, 1 latrines, 1 bureau, 1 remise 
+Un établissement où l’on peut boire et manger.
+
+TEMPLE 
+Création. 28 Marchandises, 2 Influence, 29 Travail, 2 Magie (1 400 po) 
+Salles 1 autel, 1 chambre à coucher, 1 salle commune, 1 confessionnal, 1 bureau, 1 sanctuaire, 1 statue, 1 remise 
+Un grand lieu de culte dédié à une divinité spécifique.
+
+THÉÂTRE 
+Création. 41 Marchandises, 2 Influence, 46 Travail (1 800 po) 
+Salles 1 auditorium, 1 latrines, 1 bureau, 1 pièce secrète, 2 remises, 1 étalage
+Un lieu de divertissement dans lequel on peut assister à des pièces de théâtre, des opéras et des concerts.
+
+TOUR DE GUET 
+Création. 35 Marchandises, 9 Influence, 25 Travail (1 470 po) 
+Salles 1 armurerie, 1 clocher, 1 bretèche 
+Une structure haute qui fait office de poste de garde.
+
+TOUR DU MAGE 
+Création. 88 Marchandises, 9 Influence, 81 Travail, 11 Magie (4 750 po) 
+Salles 1 atelier d’artisan, 1 salle de bain, 1 chambre à coucher, 1 cellule, 1 salle de cérémonie, 1 cuisine, 1 latrines, 1 bibliothèque magique, 1 bureau, 1 scriptorium, 1 chambre de divination, 1 salon, 1 remise 
+La demeure et le laboratoire d’un lanceur de sorts.
+
+UNIVERSITÉ 
+Création. 94 Marchandises, 10 Influence, 88 Travail, 2 Magie (4 140 po) 
+Salles 1 salle de bain, 1 clocher, 1 bibliothèque, 2 salles de classe, 1 salle commune, 1 cour, 1 serre, 1 cuisine, 1 latrines, 1 dôme d’observation, 2 bureaux, 1 scriptorium, 1 salon, 1 statue 
+Un établissement d’enseignement supérieur.
+
+VILLA DE NOBLE 
+Création. 218 Marchandises, 16 Influence, 204 Travail (8 920 po) 
+Salles 1 bar, 1 salle de bain, 4 chambres à coucher, 2 cours, 4 murs défensifs, 1 issue de secours, 2 ameublements (chambre à coucher et salon), 1 jardin, 1 bretèche, 1 cuisine, 1 labyrinthe, 1 lavoir, 1 latrines, 1 logement, 2 bureaux, 2 pièces secrètes, 2 salons, 1 stabulation, 1 statue, 2 remises, 1 salle des trophées, 1 chambre forte 
+Un manoir étendu entouré d’un terrain somptueux.
+
+ZOO 
+Création. 200 Marchandises, 33 Influence, 188 Travail (8 750 po) 
+Salles 2 enclos, 1 cour, 4 murs défensifs, 1 champ, 1 poste de garde, 6 abris pour animaux, 1 écloserie, 1 cuisine, 1 latrines, 2 bureaux, 1 stabulation, 2 remises, 1 étalage 
+Un grand parc rempli d’animaux exotiques et de créatures magiques. 

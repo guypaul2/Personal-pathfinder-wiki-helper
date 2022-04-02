@@ -1,0 +1,17 @@
+<table class="page espace-col deuxcol"><tr><td>
+
+{s:Reference|NONBAT}
+<div class="BD">
+{s:BDTitre|Acérée|{s:AE}}
+'''Recettes''' : [[++Pathfinder-RPG.Présentation des sorts#TRANSMUTATION|Transmutation]] modérée ; 
+'''Création''' : 10 ; 
+'''Durée''' : Bonus de +1
+(((Caractéristiques)))
+Cette propriété double la zone de critique possible d’une arme. Cette propriété s’applique seulement aux armes tranchantes et perforantes. Si vous tirez aléatoirement cette capacité sur une arme qui ne peut en profiter, relancez les dés. Les effets de cette propriété ne se cumulent pas avec des effets similaires étendant la zone de critique possible, comme le sort affûtage ou le don Science du critique.
+(((Création)))
+ [[++Pathfinder-RPG.Création darmes et armures magiques|Création d’armes et armures magiques]],  [[++Pathfinder-RPG.affûtage|affûtage]] ; '''Prix''' : Bonus de +1
+</div>
+
+
+
+</td></tr></table>

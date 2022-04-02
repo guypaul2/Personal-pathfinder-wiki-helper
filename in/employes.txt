@@ -1,0 +1,184 @@
+ACOLYTE 
+Recettes +4 po, Influence ou Magie
+Création 2 Marchandises, 2 Influence, 2 Travail, 3 Magie (440 po) 
+Durée 3 jours 
+Taille 1 personne 
+Amélioration en curé, sage 
+Un acolyte est un lanceur de sorts divins récemment et suffisamment formé pour traiter les malades ou pour conseiller autrui en matières religieuses. C’est généralement un adepte, un prêtre, un druide ou un oracle de niveau 1 qui porte une armure légère (ou aucune armure dans le cas d’un adepte) et une arme appropriée à sa foi.
+
+APPRENTI-MAGE 
+Recettes +4 po, Influence ou Magie 
+Création 2 Marchandises, 2 Influence, 1 Travail, 4 Magie (520 po) 
+Durée 3 jours 
+Taille 1 personne 
+Amélioration en mage, sage 
+Un apprenti-mage est un lanceur de sorts profanes récemment et suffisamment formé pour aider à l’accomplissement de rituels magiques, pour générer des effets tapageurs ou pour conseiller autrui en matière de magie. C’est généralement un barde, un ensorceleur, un invocateur, une sorcière ou un magicien de niveau 1.
+
+ARCHERS 
+Recettes +6 po, Influence ou Travail 
+Création 4 Marchandises, 3 Influence, 7 Travail (310 po) 
+Durée 4 jours 
+Taille 5 personnes 
+Amélioration en archers d’élite 
+Amélioration de soldats 
+Les archers sont des soldats formés à la manipulation d’armes à distance. Ce sont généralement des hommes d’armes de niveau 1. Chacun porte une armure d’écailles, un arc long, une targe et une épée longue.
+
+BUREAUCRATES 
+Recettes +4 po ou Influence 
+Création 2 Marchandises, 4 Influence, 2 Travail (200 po) 
+Durée 2 jours 
+Taille 5 personnes 
+Amélioration de fraudeurs, soldats 
+Les bureaucrates interagissent avec le gouvernement local et gèrent le travail de paperasse ennuyeux lié au fonctionnement d’une entreprise ou d’une organisation. Parmi eux, on peut trouver des comptables, des diplomates, des juristes et des scribes. Un bureaucrate est le plus souvent un expert de niveau 1, 2 ou 3 avec des rangs dans les compétences de Bluff, Diplomatie, Intimidation, Connaissances (folklore local), Linguistique et Profession (avocat, clerc ou scribe).
+
+CAVALIERS 
+Recettes +7 po, Influence ou Travail 
+Création 8 Marchandises, 3 Influence, 8 Travail (410 po) 
+Durée 6 jours 
+Taille 5 personnes 
+Amélioration de soldats d’élite, soldats 
+Amélioration en archers montés
+Les cavaliers sont des soldats formés pour le combat monté. Ce sont généralement des hommes d’armes de niveau 3. Chacun porte une cuirasse, une épée longue, une lance d’arçon et un écu en acier. Ils utilisent des chevaux légers entraînés au combat.
+
+ARCHERS MONTÉS 
+Recettes +8 po, Influence ou Travail 
+Création 9 Marchandises, 3 Influence, 10 Travail (470 po) 
+Durée 7 jours 
+Taille 5 personnes 
+Amélioration de cavaliers, archers d’élite 
+Les archers montés sont des soldats formés à chevaucher des montures tout en manipulant des armes à distance avant d’engager le corps à corps. Ce sont généralement des hommes d’armes de niveau 3. Chacun est équipé d’une cuirasse, d’un arc court, d’une épée longue, d’une lance d’arçon et d’un écu en acier. Ils montent des chevaux légers entraînés au combat.
+
+ARTISANS 
+Recettes +4 po, Marchandises ou Travail 
+Création 3 Marchandises, 2 Influence, 4 Travail (200 po) 
+Durée 2 jours 
+Taille 3 personnes 
+Les artisans sont formés à la pratique d’une compétence d’Artisanat ou de Profession particulière qu’ils exploitent pour gagner leur vie. Ils peuvent être alchimistes, charpentiers, tanneurs, maçons ou forgerons, entre autres. Un charpentier typique est un expert de niveau 4 (Manuel des PNJ Pathfinder JdR page 261) avec 4 rangs dans les compétences suivantes : Escalade, Artisanat (charpenterie), Diplomatie et Connaissances (ingénierie et folklore local). Les artisans spécialisés dans d’autres domaines possèdent une répartition de rangs similaire.
+
+TIRE-LAINE 
+Recettes +3 po, Marchandises ou Travail 
+Création 3 Influence, 1 Travail (110po) 
+Durée 1 jour 
+Taille 5 personnes 
+Amélioration en cambrioleurs 
+Les tire-laine sont des voleurs de seconde zone (et souvent jeunes) qui gagnent leur vie en accomplissant des actes illégaux mineurs tels que le pickpocket ou le vol à l’étalage. Ce sont le plus souvent des hommes du peuple (Manuel des PNJ page 262), des experts (Manuel des PNJ page 250) ou des roublards (Manuel des PNJ page 180) de niveau 1 avec 1 rang dans les compétences de Perception, Escamotage et Discrétion.
+
+CONDUCTEUR D’ATTELAGE 
+Recettes +2 po, Marchandises ou Travail 
+Création 2 Marchandises, 1 Influence, 1 Travail (90 po) 
+Durée 0 jour 
+Taille 1 personne 
+Amélioration de travailleurs 
+Amélioration en laquais
+Les conducteurs d’attelage sont formés pour s’occuper des animaux ordinaires et les diriger. Ils peuvent conduire des charrettes tirées par des bœufs, rassembler des troupeaux de bétail ou dresser des chevaux de selle. Un conducteur d’attelage est généralement un expert de niveau 1 avec des rangs dans les compétences de Dressage, Connaissances (géographie), Profession (conducteur d’attelage), Équitation et Survie.
+
+ARCHERS D’ÉLITE 
+Recettes +7 po, Influence ou Travail 
+Création 5 Marchandises, 4 Influence, 8 Travail (380 po) 
+Durée 6 jours 
+Taille 5 personnes 
+Amélioration de archers, soldats d’élite 
+Amélioration en archers montés 
+Les archers d’élite sont des hommes d’armes de niveau 3. Chacun est équipé d’une armure d’écailles, d’un arc long, d’une targe et d’une épée longue.
+
+GARDES D’ÉLITE 
+Recettes +4 po, Influence ou Travail 
+Création 3 Marchandises, 1 Influence, 4 Travail (170 po) 
+Durée 2 jours 
+Taille 5 personnes 
+Amélioration de gardes 
+Amélioration en soldats d’élite 
+Comme les gardes, ces employés défendent un lieu mais ne prennent pas d’initiatives. Les gardes d’élite sont des hommes d’armes de niveau 3 (Manuel des PNJ page 257). Ils sont équipés d’une chemise de mailles ou d’une crevice, d’un écu en acier, d’un épieu, d’une guisarme ou d’une hallebarde.
+
+SOLDATS D’ÉLITE 
+Recettes +6 po, Influence ou Travail 
+Création 5 Marchandises, 3 Influence, 7 Travail (330 po) 
+Durée 5 jours 
+Taille 5 personnes 
+Amélioration de gardes d’élite, soldats 
+Amélioration en cavaliers, archers d’élite 
+Comme les soldats, ces employés se lancent dans des manœuvres offensives et traquent les ennemis de votre personnage pour les tuer. Les soldats d’élite sont des hommes d’armes de niveau 3 (Manuel des PNJ page 257). Chacun est équipé d’une chemise de mailles ou d’une crevice, d’une guisarme, d’une hallebarde ou d’un écu en acier et d’un épieu.
+
+GARDES 
+Recettes +2 po, Influence ou Travail 
+Création 2 Marchandises, 3 Travail (100 po) 
+Durée 1 jour 
+Taille 5 personnes 
+Amélioration de travailleurs 
+Amélioration en gardes d’élite, soldats 
+Les gardes sont formés pour surveiller une personne ou un lieu et pour les défendre si nécessaire. À la différence des soldats, on n’attend pas d’eux qu’ils cherchent les ennuis ou se montrent agressifs. Ils sont plutôt employés pour inciter les ennemis occasionnels à prendre la fuite ou pour défendre un lieu ou une personne contre des ennemis entreprenants. Les gardes sont généralement des hommes d’armes de niveau 1. Ils sont équipés d’une armure d’écailles et soit d’une coutille, soit d’un écu en bois et d’un épieu.
+
+TRAVAILLEURS 
+Recettes +2 po ou Travail 
+Création 1 Influence, 2 Travail (70 po) 
+Durée 0 jour 
+Taille 5 personnes 
+Amélioration en conducteurs d’attelage, gardes, laquais, marins, fraudeurs 
+Les travailleurs sont des ouvriers non-qualifiés qui effectuent des tâches simples. Dans la plupart des cas, ils font un travail physique, mais il est possible de recruter des travailleurs spécialisés dans la réalisation de tâches particulières telles que la mendicité au service d’une guilde de voleurs, des pleureurs professionnels au service d’un culte ou des comédiens pour une représentation théâtrale. Les travailleurs sont généralement des hommes du peuple de niveau 1 (Manuel des PNJ page 256) sans aucun rang dans une compétence d’Artisanat ou de Profession.
+
+LAQUAIS 
+Recettes +2 Influence ou Travail 
+Création 1 Marchandises, 2 Influence, 2 Travail (120 po) 
+Durée 1 jour 
+Taille 5 personnes 
+Amélioration de conducteurs d’attelage, travailleurs 
+Les laquais sont au service de votre personnage de nuit comme de jour et s’occupent des tâches quotidiennes domestiques et de l’intendance lors des déplacements. On compte parmi eux des majordomes, des valets, des bonnes, des hérauts, des dames d’honneur et du personnel de service 
+similaire. Les laquais qualifiés anticipent les besoins de votre personnage et coordonnent les tâches de ses autres employés, ainsi que de ceux de ses invités ou de ses hôtes. Un laquais est généralement un homme du peuple ou un expert de niveau 1 avec des rangs dans quelques-unes des compétences suivantes : Diplomatie, Déguisement, Intimidation, Connaissances (folklore local), Connaissances (noblesse), Linguistique, Perception et Psychologie.
+
+MAGE 
+Recettes +7 po, Influence ou Magie 
+Création 3 Marchandises, 2 Influence, 2 Travail, 8 Magie (960 po) 
+Durée 7 jours 
+Taille 1 personne 
+Amélioration de apprenti-mage 
+Un mage est un lanceur de sorts profanes qualifié mais pas particulièrement remarquable. C’est généralement un barde, un ensorceleur, un invocateur, une sorcière ou un magicien de niveau 3.
+
+CURÉ 
+Recettes +7 po, Influence ou Magie 
+Création 3 Marchandises, 3 Influence, 3 Travail, 6 Magie (810 po) 
+Durée 7 jours 
+Taille 1 personne 
+Amélioration de acolyte 
+Un curé est un lanceur de sorts divins qualifié mais pas particulièrement remarquable. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de niveau 3, équipé d’une armure légère (ou d’aucune armure dans le cas d’un adepte) et d’une arme appropriée à sa foi.
+
+CAMBRIOLEURS 
+Recettes +4 po, Marchandises ou Influence 
+Création 1 Marchandises, 4 Influence, 3 Travail (200 po) 
+Durée 3 jours 
+Taille 5 personnes 
+Amélioration de tire-laine 
+Les cambrioleurs sont des voleurs spécialisés dans le cambriolage, le braquage et divers crimes violents réalisés pour le profit. Un cambrioleur typique est un expert ou un roublard de niveau 3 avec 3 rangs dans chacune des compétences suivantes : Escalade, Sabotage, Intimidation, Perception et Discrétion.
+
+SAGE 
+Recettes +5 po ou Influence 
+Création 5 Marchandises, 2 Influence, 2 Travail (200 po) 
+Durée 4 jours 
+Taille 1 personne 
+Amélioration de acolyte, apprenti-mage 
+Un sage est une personne possédant des connaissances étendues dans un ou plusieurs domaines apparentés. Il peut conseiller votre personnage sur toutes les questions relatives à ses domaines de connaissances. Un sage typique est un expert de niveau 3 avec 3 rangs dans des compétences telles qu’Estimation, Connaissances, Linguistique, Profession et Art de la magie.
+
+MARINS 
+Recettes +2 po, Marchandises ou Travail 
+Création 1 Marchandises, 1 Influence, 2 Travail (90 po) 
+Durée 0 jour 
+Taille 5 personnes 
+Amélioration de travailleurs 
+Les marins savent naviguer à bord d’un navire, s’orienter en mer et défendre leur bateau contre une attaque de pirates ou d’autres menaces hostiles. Un marin typique est un expert de niveau 2 (Manuel des PNJ page 250) avec 2 rangs dans chacune des compétences suivantes : Acrobaties, Escalade, Perception, Profession (marin), Survie et Natation.
+
+FRAUDEURS 
+Recettes +2 po, Marchandises ou Influence 
+Création 3 Influence, 2 Travail (130 po) 
+Durée 1 jour 
+Taille 5 personnes 
+Amélioration de travailleurs 
+Amélioration en bureaucrates 
+Les fraudeurs effectuent des tâches illégales mais populaires telles que l’organisation de paris ou de combats clandestins, ou la distribution d’alcool de contrebande. D’autres types d’employés peuvent également accomplir ce genre de tâches (votre personnage peut ainsi recruter des travailleurs en tant que prostituées ou des gardes pour gérer une arène), mais les fraudeurs sont particulièrement compétents dans ce domaine.
+
+SOLDATS 
+Recettes +5 po, Influence ou Travail 
+Création 3 Marchandises, 2 Influence, 5 Travail (220 po) 
+Durée 2 jours 
+Taille 5 personnes 
+Amélioration de gardes 
+Amélioration en archers, bureaucrates, cavaliers, soldats d’élite 
+Les soldats sont formés au combat. Ils ont les moyens et la volonté nécessaires pour tuer les ennemis de votre personnage. À la différence des gardes, ils engagent le combat sur ordre de leur chef (même si votre personnage peut leur demander de se comporter comme des gardes). En fonction de la nature de l’organisation de votre personnage, les soldats peuvent être des hommes de main plutôt que de véritables soldats au sens militaire du terme. Les soldats sont généralement des hommes d’armes de niveau 1. Ils sont équipés d’une armure d’écailles, d’une épée longue, d’un écu en bois et de javelines.

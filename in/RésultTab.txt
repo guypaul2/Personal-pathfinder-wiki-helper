@@ -1,0 +1,29 @@
+
+| [[Bâtiments et organisations#{s:Reference|GUILDE D’ARTISANS}|{s:Reference|GUILDE D’ARTISANS}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|CHASSEURS DE PRIMES}|{s:Reference|CHASSEURS DE PRIMES}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|BANDE DE GROS-BRAS}|{s:Reference|BANDE DE GROS-BRAS}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|CABALE}|{s:Reference|CABALE}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|CARAVANIERS}|{s:Reference|CARAVANIERS}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|CULTE}|{s:Reference|CULTE}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|SUITE}|{s:Reference|SUITE}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|CLUB DE COMBAT}|{s:Reference|CLUB DE COMBAT}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|GROUPE DE CHASSEURS}|{s:Reference|GROUPE DE CHASSEURS}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|COMPAGNIE DE MERCENAIRES}|{s:Reference|COMPAGNIE DE MERCENAIRES}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|ÉQUIPAGE DE NAVIRE}|{s:Reference|ÉQUIPAGE DE NAVIRE}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|TROUPE DE THÉÂTRE}|{s:Reference|TROUPE DE THÉÂTRE}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|GUILDE DE VOLEURS}|{s:Reference|GUILDE DE VOLEURS}]]
+| -
+| [[Bâtiments et organisations#{s:Reference|VAGABONDS}|{s:Reference|VAGABONDS}]]
+| -

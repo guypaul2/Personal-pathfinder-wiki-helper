@@ -1,0 +1,651 @@
+ABRI POUR ANIMAUX
+Recettes : +12 ou Influence
+Création : 18 Marchandises, 3 Influence, 17 Travail (790 po) 
+Durée : 40 jours
+Taille : 40-60 cases
+Amélioration de : enclos et stabulation
+Cette salle permet d’abriter des animaux. À la différence d’une stabulation ou d’une écloserie, un abri pour animaux
+est agencé pour loger des animaux rares ou exotiques. La salle contient des cages et des espaces clos dans lesquelles
+sont enfermées les créatures, avec au moins un mur fait de barres ou d’ouvertures pour permettre aux visiteurs de les
+contempler. On ajoute plusieurs hautes perches dans un abri pour animaux conçu pour accueillir des oiseaux, en plus d’un grillage afin d’éviter qu’ils ne s’échappent.
+
+ACCÈS AUX ÉGOUTS
+Création : 2 Marchandises, 1 Influence, 2 Travail (110 po) 
+Durée : 4 jours
+Taille : 4-6 cases
+Un accès aux égouts peut être une salle, un tunnel ou un élément aussi simple qu’une solide trappe fixée au sol. Pour
+pouvoir construire une telle salle, la communauté dans laquelle se situe le bâtiment doit posséder des égouts ou un système d’évacuation des eaux usées. Ces égouts peuvent servir de sortie de secours, mais seulement en passant par cette salle. La porte menant aux égouts est en bois solide dotée d’une serrure de bonne qualité. Pour 500 po supplémentaires, la porte en bois peut être remplacée par une porte en fer. Si le bâtiment contient des latrines et un accès aux égouts, une tuyauterie interne relie automatiquement les latrines aux égouts.
+
+ARMURERIE
+Avantages : permet d’équiper les membres d’un dortoir ou d’un poste de garde, réduit le temps nécessaire pour enfiler une armure.
+Création : 9 Marchandises, 3 Influence, 6 Travail (390 po) 
+Durée : 16 jours
+Taille : 5-15 cases
+Une armurerie contient une grande variété d’armes et d’armures ordinaires en quantité suffisante pour équiper les
+membres d’un dortoir ou d’un poste de garde (les gardes ou les soldats stockent leurs armes et armures dans cette salle et votre personnage n’aura pas à payer l’équipement utilisé par chacun d’entre eux tant que l’armurerie n’est pas brisée). Cette salle contient généralement des armures de taille M et les armes adaptées aux gardes ou aux soldats affectés au bâtiment. L’armurerie contient également toute une gamme d’outils utiles pour permettre à votre personnage d’enfiler correctement une armure aussi rapidement que s’il le faisait à la hâte.
+
+ATELIER DE COUTURE
+Recettes : +10 ou Marchandises ou Influence
+Avantage : compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat.
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 6-12 cases
+Un atelier de couture est conçu pour créer des blasons et pour fabriquer des vêtements, des tapisseries, des couvertures, des tapis, du linge et autres pièces de textile. Il contient un métier à tisser, un rouet, des cadres à tapisserie, des étagères sur lesquelles sont stockés les tissus pliés, des plans de travail et les outils pour
+filer, tisser et coudre. Cette pièce peut servir à un maximum de trois personnes à la fois. On considère alors qu’elles manipulent des outils d’artisan de qualité supérieure lorsqu’elles utilisent des compétences telles qu’Artisanat (étoffes) et Artisanat (vêtements) ou des compétences apparentées telles qu’Artisanat (paniers).
+
+ATELIER D’ARTISAN
+Recettes : +10 ou Marchandises ou Influence
+Avantages : compte comme des outils de maître artisan pour une compétence d’Artisanat.
+Création : 9 Marchandises, 9 Travail (360 po) 
+Durée : 20 jours
+Taille : 8-16 cases
+Cet atelier spécialisé contient toute une variété d’outils et de matériaux pour pratiquer un artisanat particulier tel que le travail du verre, la taille de gemmes ou la sculpture. Vous déterminez l’artisanat concerné lorsque votre personnage construit la salle. Cette pièce peut servir à un maximum de trois personnes à la fois.
+
+ATELIER DE MÉCANIQUE
+Recettes : +10 ou Marchandises ou Travail
+Avantages : compte comme des outils d’artisan de qualité supérieure pour pratiquer l’Artisanat (mécanique).
+Création : 9 Marchandises, 9 Travail (360 po) 
+Durée : 20 jours
+Taille : 8-16 cases
+Cet atelier contient tous les outils de précision et les postes de travail nécessaires à la fabrication de mécanismes délicats. Cette pièce peut servir à un maximum de trois personnes à la fois.
+
+ATELIER DE TANNEUR
+Recettes : +10 ou Marchandises
+Avantages : compte comme des outils d’artisan de qualité supérieure pour les compétences de travail du cuir
+Création : 7 Marchandises, 1 Influence, 7 Trvail (310 po) 
+Durée : 16 jours
+Taille : 4-10 cases
+Un atelier de tanneur contient une table solide, un tabouret, des cuves, des étendoirs et des outils conçus pour traiter les peaux et les transformer en cuir. L’atelier de tanneur peut accueillir jusqu’à trois travailleurs à la fois et l’on considère qu’ils manipulent des outils d’artisan de qualité supérieure lorsqu’ils fabriquent des articles en cuir grâce aux compétences d’Artisanat (travail du cuir) ou Artisanat (souliers) par exemple.
+
+AUDITORIUM
+Recettes : +15 ou Influence
+Avantages : bonus aux tests de Représentation
+Création : 19 Marchandises, 1 Influence, 25 Travail (910 po) 
+Durée : 40 jours
+Taille : 40-100 cases
+Amélioration d': une salle de bal
+Cette grande salle est utilisée pour accomplir diverses performances artistiques. Elle contient une scène, des costumes, des instruments de musique et des places assises pour le public. L’acoustique et la décoration supérieures confèrent un bonus de +2 aux tests de Représentation effectués dans cette salle.
+
+AUTEL
+Recettes : +3 Influence
+Avantages : compte comme une installation permanente vouée à la divinité du personnage dans le cadre d’une consécration ou de sorts similaires.
+Création : 2 Marchandises, 1 Influence, 2 Travail, 1 Magie (210po) 
+Durée : 4 jours
+Ce point focal spirituel est doté de l’iconographie et des ustensiles nécessaires pour effectuer des cérémonies. Un autel classique est le plus souvent en pierre, mais il peut également prendre la forme d’un bassin sacré, d’un bûcher sacrificiel, d’une série de statues ou de tout autre point de convergence sacré.
+
+BAR
+Recettes : +10 ou Influence
+Avantages : bonus aux tests de Diplomatie pour recueillir des informations
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) 
+Durée : 16 jours
+Taille : 10-20 cases
+Un bar contient toute une variété de boissons et un comptoir pour les préparer. Après avoir passé une heure en compagnie des gens du coin dans cette salle, votre personnage gagne, pendant les vingt-quatre prochaines heures, un bonus de +1 aux tests de Diplomatie effectués pour recueillir des informations dans la communauté.
+
+BIBLIOTHÈQUE
+Recettes : +8 ou Influence
+Avantages : bonus aux tests d’une compétence de Connaissances.
+Création : 8 Marchandises, 2 Influence, 7 Travail, 1 Magie (460 po) 
+Durée : 16 jours
+Taille : 4-12 cases
+Amélioration en : bibliothèque magique
+Une bibliothèque contient une grande quantité d’étagères couvertes de livres, en plus des chaises, bureaux et tables pour lire et étudier. La plupart des bibliothèques contiennent des livres couvrant une large gamme de connaissances et représentant une source impressionnante d’informations générales, mais certaines contiennent des livres axés sur un sujet spécifique. Lorsque votre personnage construit une bibliothèque, sélectionnez une compétence de Connaissances. Si quelqu’un pose une question en relation avec cette compétence et passe une heure à faire des recherches dans la bibliothèque, il gagne un bonus de +3 au test de Connaissances pour y répondre.
+
+BIBLIOTHÈQUE MAGIQUE
+Recettes : +12 ou Influence ou Magie
+Avantages : bonus aux tests de Connaissances (mystères), d’Art de la magie et de recherche de sorts.
+Création : 9 Marchandises, 3 Influence, 8 Travail, 3 Magie (730 po) 
+Durée : 20 jours
+Taille : 4-12 cases
+Amélioration de : la bibliothèque
+Une bibliothèque magique est similaire à une bibliothèque,mais elle est spécifiquement conçue pour l’étude des arts
+magiques. Elle contient des étagères couvertes de livres, des chaises confortables et des tables pour étudier et écrire. Si vous construisez cette salle de toute pièce, elle confère à l’individu qui y étudie pendant une heure un bonus de +3 à un test de Connaissances (mystères) pour répondre à une question. Si vous améliorez une bibliothèque en bibliothèque magique, vous disposez de deux options : soit vous conservez le bonus de la bibliothèque aux tests de Connaissances, soit vous modifiez la compétence pour que le bonus s’applique aux tests de Connaissances (mystères). Une heure passée à étudier dans cette salle confère également un bonus de +3 aux tests d’Art de la magie. Elle confère un bonus supplémentaire de +1 aux tests de Connaissances (mystères) et d’Art de la magie pour la recherche de sorts (voir Faire des recherches pour trouver ou inventer un sort, page 88) et la création d’objets magiques.
+
+BRASSERIE
+Recettes : +10 ou Influence
+Création : 9 Marchandises, 2 Influence, 7 Travail (380 po) 
+Durée : 24 jours
+Taille : 12-24 cases
+Une brasserie permet à votre personnage de faire fermenter et de distiller des ingrédients tels que des fruits ou des
+céréales pour créer des boissons fortes.
+
+BRETÈCHE
+Avantages : les défenseurs obtiennent un bonus à l’initiative et aux tests de Perception.
+Création : 15 Marchandises, 3 Influence, 12 Travail (630 po) 
+Durée : 40 jours
+Taille : 8-12 cases
+Amélioration de : salle à mâchicoulis, poste de garde
+Cette structure défensive bloque l’accès à un bâtiment. Elle est normalement agencée de façon à ce que les défenseurs aient une ligne de mire dégagée vers toutes les entrées de la salle et toutes les personnes en approche à l’extérieur du bâtiment. Elle contient une solide porte en bois dotée d’une serrure de bonne qualité. Cette porte peut être construite en fer pour 500 po. Il est possible d’ajouter une herse en bois pour 500 po ou en fer pour 1 000 po.
+Pour un coût supplémentaire de 80 po, cet endroit peut également être considéré comme une salle à mâchicoulis, ce qui permet aux défenseurs de faire retraite et de piéger les intrus à l’intérieur. On peut aussi construire cette salle à l’intérieur d’une tour (sans coût supplémentaire) dont le premier étage est aussi considéré comme une bretèche. Le prix indiqué inclut la rémunération des employés non-qualifiés en tant que gardes (hommes du peuple ou experts 1
+avec des uniformes, mais sans arme ni armure). Si le bâtiment est une armurerie, ces employés sont équipés d’armes et d’armures qui servent surtout à impressionner. Si le personnage souhaite recruter des gardes entraînés capables de défendre le bâtiment contre des intrus dangereux, il devra louer les services de gardes professionnels ou recruter des gardes ou des soldats. Une bretèche peut également faire office de péage qui produit les même recettes (+4 ou
+Marchandises). Un individu qui exploite les aspects défensifs d’une bretèche gagne un bonus de +1 aux tests d’initiative et de Perception effectués contre des intrus qui tentent de traverser cette salle.
+
+BUREAU
+Création : 3 Marchandises, 3 Travail (120 po) 
+Durée : 8 jours
+Taille : 2-5 cases
+Amélioration de : remise
+La porte de cette salle ordinaire est dotée d’une serrure simple. L’endroit contient une chaise et un grand bureau doté de deux tiroirs fermés par une serrure simple. Un bureau permet à son occupant de travailler dans le calme et à l’écart des autres activités se déroulant dans le reste du bâtiment.
+
+CABANON
+Création : 3 Marchandises, 2 Travail (100 po) 
+Durée : 3 jours
+Taille : 2-4 cases
+Amélioration en : latrines, remise
+Cet abri rudimentaire en bois contient une table simple, un grabat et un tabouret. Il est possible de construire un Cabanon à l’aide d’outils et de matériaux simples. Pour 1 point de Marchandises et 2 points de Travail supplémentaires, il est possible de remplacer le bois du cabanon par de la brique ou de la pierre.
+
+CELLULE
+Création : 5 Marchandises, 4 Travail (180 po) 
+Durée : 16 jours
+Taille : 1-9 cases
+Il est possible d’enfermer jusqu’à quatre prisonniers dans cette salle inconfortable. Ce n’est généralement guère plus que des murs de pierre et un sol couvert de paille, mais certaines peuvent également contenir du mobilier très
+rudimentaire, comme des paillasses ou des pots de chambre. L’un des murs est généralement remplacé par des barres
+verticales solides et une porte fermée par une serrure moyenne. Votre personnage peut également faire fixer des
+menottes simples ou de qualité supérieure au prix normal.
+CHAMBRE À COUCHER
+Recettes : +3 ou Influence
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 20 jours
+Taille : 4-8 cases
+Une chambre à coucher fournit confort et l’intimité pour une ou deux personnes. Elle contient le plus souvent un grand lit ou deux petits lits. Beaucoup contiennent également du mobilier supplémentaire, comme des chaises, des garde-robes, des coffres, des tables ou des âtres de petite taille. Une chambre à coucher peut être le lieu où dort le propriétaire du bâtiment ou une pièce confortable à louer.
+
+CHAMBRE DE DIVINATION
+Recettes : +2 ou Influence
+Avantages : augmente le DD des effets de scrutation
+Création : 6 Marchandises, 1 Influence, 5 Travail, 3 Magie (550 po) 
+Durée : 16 jours
+Taille : 4-16 cases
+Une chambre de divination est un endroit calme conçu pour organiser des séances de scrutation, de spiritisme et
+de divination similaires. Elle contient une table, des chaises et un bassin rempli d’eau (sans coût supplémentaire) ou un objet focaliseur adapté à un sort de scrutation (pour 1 000 po supplémentaires). Un lanceur de sorts qui lance scrutation, localisation de créature ou un sort de divination ciblé similaire dans cette salle augmente le DD de ce sort de 1.
+
+CHAMBRE DE TORTURE
+Avantage : bonus aux tests d’Intimidation
+Création : 7 Marchandises, 3 Influence, 5 Travail (330 po) 
+Durée : 20 jours
+Taille : 6-16 cases
+Cette salle sinistre est conçue pour interroger, torturer et accomplir des actes moralement douteux. Elle contient des éléments permettant d’entraver des humanoïdes et divers ustensiles conçus pour infliger gêne et souffrance. Ceux qui posent des questions dans cette salle gagnent un bonus de +3 aux tests d’Intimidation effectués pour influencer les captifs.
+
+CHAMBRE D’INVOCATION
+Recettes : +3 Magie
+Avantages : bonus aux tests de Charisme, Diplomatie, Intimidation et Connaissances (plans)
+Création : 11 Marchandises, 4 Influence, 10 Travail, 5 Magie (1040 po) 
+Durée : 28 jours
+Taille : 6-16 cases
+Une chambre d’invocation est conçue pour accomplir des rituels magiques de conjuration d’Extérieurs. Elle contient
+un cercle magique pratiquement terminé et finement dessiné sur le sol. Il suffit de terminer le dessin du cercle à
+la craie pour pouvoir lancer les sorts de cercle magique, contrat intermédiaire ou assimilés. Un individu qui utilise une chambre d’invocation gagne un bonus de +3 aux tests de Connaissances (plans) à l’encontre d’une créature convoquée ou appelée. Il gagne également un bonus de +3 aux tests de Charisme, de Diplomatie et d’Intimidation pour influencer ou négocier avec une créature appelée ou convoquée dans cette salle.
+
+CHAMBRE-FORTE
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 4-8 cases
+Amélioration de : reliquaire, remise
+Amélioration en : pièce secrète
+C’est une pièce sécurisée conçue pour prévenir toute intrusion. L’accès à cette salle est bloqué par une porte en
+fer dotée d’une serrure de bonne qualité. Si cette salle est améliorée en pièce secrète, la porte désormais secrète reste en fer avec une serrure de même qualité.
+
+CHAMP
+Recettes : +10 ou Marchandises
+Création : 15 Marchandises, 15 Travail (600 po) 
+Durée : 20 jours
+Taille : 60-100 cases
+Cette grande étendue de terre arable est utilisée pour cultiver ou pour produire du fourrage destiné au bétail. Le prix de cette salle inclut le défrichement de la parcelle, la fertilisation du sol, etc... À la discrétion du MJ, votre personnage peut découvrir une parcelle de terre disponible qui sera automatiquement et gratuitement considérée comme un champ.
+CLOCHER
+Recettes : +3 capitaux (d’un type que le bâtiment génère déjà)
+Création : 11 Marchandises, 3 Influence, 7 Travail (450 po) 
+Durée : 28 jours
+Taille : 9-25 cases
+Cette salle à deux étages contient une ou plusieurs cloches conçues pour carillonner ou pour sonner l’alerte (on les
+actionne avec des cordes accessibles d’en bas). Le son des cloches s’entend jusqu’à 1,5 kilomètre à la ronde.
+
+CONFESSIONNAL
+Avantages : bonus aux tests de Discrétion.
+Création : 2 Marchandises, 3 Travail (100 po) 
+Durée : 4 jours
+Taille : 2-4 cases
+Cette paire de minuscules salles reliées permet d’entretenir des conversations privées. Vous pouvez également construire un espace secret permettant d’observer la pièce voisine sans être vu, par le biais d’un petit judas dissimulé au sein d’une tapisserie ou d’une mosaïque. La partie secrète de la pièce confère un bonus de +4 aux tests de Discrétion contre les créatures situées dans la partie attenante. Il est possible de construire le confessionnal de
+manière à ce que le bonus s’applique aux créatures situées dans l’une, l’autre ou les deux pièces.
+COUR
+Recettes : +5 capitaux (d’un type que le bâtiment génère déjà).
+Création : 4 Marchandises, 5 Travail (180 po) 
+Durée : 24 jours
+Taille : 20-40 cases
+Ce grand espace à ciel ouvert est généralement conçu pour contenir un jardin décoratif, pour organiser des entraînements ou des réunions, ou pour servir de lieu de stockage.
+
+CRÈCHE
+Recettes : +6 ou Influence
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) ;
+Durée : 14 jours
+Taille : 8-16 cases
+Une crèche est conçue pour prendre soin des enfants et des nouveaux-nés. Elle contient des berceaux, des lits d’enfant, des jouets, une table à langer et des meubles de rangement.
+
+CRYPTE
+Recettes : +5 ou Influence ou Magie
+Création : 5 Marchandises, 3 Influence, 5 Travail, 2 Magie (490 po) 
+Durée : 16 jours
+Taille : 8-30 cases
+Améliorations du : site funéraire
+C’est là que sont inhumées les dépouilles d’individus importants. En surface, cet espace peut prendre la forme d’une
+tombe. Les sorts qui conservent ou protègent les cadavres (comme préservation des morts) durent deux fois plus longtemps lorsqu’ils sont lancés sur un cadavre inhumé dans cette salle.
+
+CUISINE
+Recettes : +4 ou Marchandises
+Création : 4 Marchandises, 4 Travail (160 po) 
+Durée : 12 jours
+Taille : 2-6 cases
+Une cuisine sert à préparer de la nourriture. Elle contient un fourneau, un évier, des ustensiles de cuisine et un petit garde-manger contenant de la nourriture. Une cuisine rattachée à une entreprise (une auberge, par exemple) permet de vendre de la nourriture préparée. Dans ce cas, il est fort probable que l’entreprise possède également une remise pour stocker la nourriture.
+
+DOJO
+Recettes : +8 ou Influence ou Travail
+Avantages : compte comme un lieu d’entraînement ou de réapprentissage approprié.
+Création : 7 Marchandises, 1 Influence, 7 Travail (310 po) 
+Durée : 20 jours
+Taille : 15-30 cases
+Cet espace dégagé est conçu pour se battre ou pour pratiquer diverses activités physiques. S’il est utilisé pour l’entrainement au combat et au tir de précision, il contient des mannequins ou des cibles de forme humanoïde. La plupart des dojos voient leur sol couvert de tapis ou de paille pour amortir les chutes et sont dotés de râteliers contenant des versions non-létales d’armes standards. S’il est utilisé par une guilde de voleurs, le dojo ne sert pas à s’entraîner au combat mais plutôt à l’évasion, au crochetage des serrures et au désamorçage des pièges. Le dojo peut accueillir un maximum de dix personnes à la fois. Il peut servir de dortoir sans toutefois proposer le même confort (surtout à cause de l’absence de couchage).
+
+DÔME D’OBSERVATION
+Recettes : +5 ou Influence ou Magie
+Avantages : bonus aux tests de Connaissances (géographie),Connaissances (nature) et Connaissances (plans).
+Création : 8 Marchandises, 9 Travail, 1 Magie (440 po) 
+Durée : 20 jours
+Taille : 10-20 cases
+Cette salle construite en hauteur est à ciel ouvert ou dotée d’une lucarne ou d’un toit rétractable pour observer le passage des corps célestes. Un dôme d’observation contient des étagères couvertes d’archives et de notes, un télescope et d’autres ustensiles conçus pour l’étude des corps célestes. Un individu qui passe une heure à faire des recherches dans le Dôme d’observation gagne un bonus de +2 aux tests de Connaissances (géographie), Connaissances (nature) et Connaissances (plans) pour répondre à une question à propos des cieux.
+
+DORTOIR
+Recettes : +8 ou Travail
+Création : 7 Marchandises, 4 Influence, 7 Travail (400 po) ;
+Durée : 24 jours
+Taille : 15-35 cases
+Amélioration en : logement
+Un dortoir offre un espace de vie limité sans réelle intimité pour dix personnes au maximum. La salle contient le plus souvent des lits ou des couchettes, du linge, des petits coffres dotés de serrures très simples et des pots de chambre. Si cette salle fait partie d’une auberge, le bâtiment est plus proche de l’asile de nuit que de l’hôtel pour voyageurs qui propose normalement des chambres individuelles. Si le dortoir fait partie d’un hôpital, c’est là que sont alités les patients.
+
+ÉCLOSERIE
+Recettes : +5 ou Marchandises
+Création : 4 Marchandises, 1 Influence, 3 Travail (170 po) ;
+Durée : 10 jours
+Taille : 2-6 cases
+Une écloserie est utilisée pour la nidification et l’éclosion de créatures ovipares, telles que les oiseaux, les lézards, les ours-hiboux ou les dragons. Sinon, elle peut également servir à abriter des poissons, des crustacés ou d’autres créatures aquatiques et ovipares. Cette salle peut être installée sur le toit d’un bâtiment pour permettre aux créatures volantes d’aller et venir, ou elle se trouver au rez-de-chaussée. L’écloserie contient des cages et des
+rembourrages souples sur lesquels les oeufs sont couvés. Elle peut également contenir un petit réchaud à bois pour préserver les oeufs au chaud en l’absence de leurs géniteurs.
+
+ENCLOS
+Recettes : +8 ou Marchandises ou Travail
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) ;
+Durée : 16 jours
+Taille : 4-16 cases
+Amélioration en : abri pour animaux
+Un enclos permet d’accueillir des animaux qui nécessitent plus d’attention que les chevaux ou le bétail. On met généralement dans un enclos des animaux pour leur viande (poulets ou cochons par exemple), pour les exposer (comme des oiseaux chanteurs ou des reptiles) ou pour se protéger (comme les chiens ou les gros félins). Un enclos peut
+contenir un animal de taille G, 2 de taille M, 4 de taille P, 8 de taille Min ou des créatures plus petites encore. L’eau et l’abri sont fournis, mais pas la nourriture.
+
+ÉTALAGE
+Recettes : +5 capitaux (d’un type que le bâtiment produit déjà)
+Création : 5 Marchandises, 1 Influence, 3 Travail (190 po) ;
+Durée : 12 jours
+Taille : 2-4 cases
+Amélioration de : société de façade
+C’est un simple étalage, avec un comptoir en bois, un registre des ventes, des étagères et divers éléments
+nécessaires pour commercer.
+
+FORGE
+Recettes : +10 ou Marchandises
+Avantages : compte comme des outils d’artisan de qualité supérieure pour les compétences de forge.
+Création : 9 Marchandises, 1 Influence, 8 Travail (370 po) ;
+Durée : 20 jours
+Taille : 8-16 cases
+Une forge contient un foyer, une enclume, une cuve de refroidissement, des outils de forgeron et divers matériaux
+appropriés pour forger le fer et d’autres types de métaux. La forge peut accueillir jusqu’à trois travailleurs à la fois et leur fournit des outils d’artisan de qualité supérieure pour pratiquer des compétences liées au travail du métal, comme Artisanat (armures) et Artisanat (armes).
+
+FOSSE
+Recettes : +1 ou Travail
+Création : 1 Marchandises, 1 Travail (40 po) 
+Durée : 2 jours
+Taille : 1-5 cases
+C’est un trou où l’on jette les choses qui ne sont plus d’aucune utilité. La fosse peut être utilisée pour contenir des ordures, des déchets dangereux ou des objets sans aucune valeur. Elle peut également servir de fosse commune où l’on enterre des cadavres, de latrines communales ou de puits rudimentaire. Une fosse typique s’enfonce abruptement sur 1,50 à 4,50 mètres.
+
+IMPRIMERIE
+Recettes : +8 ou Marchandises, Influence ou Travail
+Avantages : compte comme des outils d’artisan de qualité supérieure pour les compétences liées à l’écrit et à l’imprimerie.
+Création : 9 Marchandises, 2 Influence, 7 Travail (380 po) 
+Durée : 20 jours
+Taille : 5-16 cases
+Amélioration du : scriptorium
+Cet atelier spécialisé contient une presse d’imprimerie, un endroit où stocker le papier et des étendoirs pour faire sécher les livres et les brochures imprimés. Elle peut accueillir jusqu’à trois travailleurs à la fois.
+
+INFIRMERIE
+Recettes : +8 ou Influence
+Avantages : compte comme une trousse de premiers secours (voir description)
+Création : 6 Marchandises, 1 Influence, 6 Travail, 1 Magie (370 po) 
+Durée : 16 jours
+Taille : 4-12 cases
+Une infirmerie sert à traiter les personnes blessées ou malades. Elle contient des lits, une bassine pour se laver et du ravitaillement médical. L’infirmerie peut accueillir un maximum de deux soigneurs et leur fournit du matériel que l’on assimile à une trousse de premiers secours. Tant que le bâtiment n’est pas considéré comme brisé, vous n’avez pas à noter le nombre de charges restantes de ces trousses de premiers secours.
+
+ISSUE DE SECOURS
+Création : 9 Marchandises, 9 Travail (360 po) 
+Durée : 16 jours
+Taille : 6-12 cases
+Amélioration de : pièce secrète
+C’est un couloir ou une coursive qui permet de quitter un bâtiment pour accéder à une sortie dissimulée. La porte de
+sortie est généralement en bois simple et dotée d’une serrure moyenne (Sabotage DD 20 pour l’ouvrir). Une porte secrète (Perception DD 20 pour la repérer) peut être construite à l’une ou aux deux extrémités du couloir.
+
+JARDIN
+Recettes : +8 ou Marchandises
+Création : 5 Marchandises, 4 Travail (180 po) 
+Durée : 12 jours
+Taille : 10-20 cases
+Amélioration en : serre
+Cette étendue de terre fertile soigneusement entretenue est conçue pour faire pousser des plantes nécessitant plus de
+soins que les plantes céréalières, même s’il est possible de l’utiliser pour y faire pousser ce type de végétaux.
+
+LABORATOIRE D’ALCHIMIE
+Recettes : +10 ou Marchandises ou Magie
+Avantages : compte comme un laboratoire d’alchimie (équipement)
+Création : 8 Marchandises, 1 Influence, 5 Travail, 1 Magie (390 po) 
+Durée : 16 jours
+Taille : 8-16 cases
+Cette salle permet à votre personnage d’améliorer ses tests d’Artisanat (alchimie), ses recherches de nouvelles formules d’alchimiste et la réalisation de tâches alchimiques similaires. Cette pièce peut servir à un maximum de trois personnes à la fois..
+
+LABYRINTHE
+Recettes : +5 ou Influence
+Création : 15 Marchandises, 15 Travail (370 po) 
+Durée : 30 jours
+Taille : 40-100 cases
+Un labyrinthe est un dédale composé de murs ou de haies ou un simple motif en mosaïques posé au sol qu’arpentent ceux
+qui cherchent la tranquillité, la méditation et l’apaisement.
+
+LATRINES
+Avantages : bonus aux jets de Vigueur effectués pour éviter de tomber malade.
+Création : 3 Marchandises, 3 Travail (120 po) 
+Durée : 4 jours
+Taille : 1-4 cases
+Amélioration de : cabanon
+Des latrines contiennent jusqu’à quatre petites pièces privées de 1,50 m × 1,50 mètre, utilisées pour satisfaire les besoins biologiques. Si un bâtiment ne contient pas de latrines, les gens qui y travaillent doivent se rendre à l’extérieur pour faire leurs besoins. En fonction du bâtiment et de la communauté, les latrines peuvent se présenter sous forme d’une cabane extérieure, d’un cabinet avec un pot de chambre ou d’une planche trouée reliée à un système d’évacuation externe qui déverse les déjections dans une fosse d’aisances ou une auge à cochons. Si le bâtiment bénéficie d’un accès aux égouts, il est possible de relier automatiquement toutes les latrines du bâtiment aux égouts de la communauté (voir page 111). La présence de latrines améliore les conditions sanitaires d’un bâtiment, voilà pourquoi les résidents, les invités, les employés et tous ceux qui fréquentent le lieu bénéficient d’un bonus de +2 aux jets de Vigueur pour éviter de tomber malade au sein de la communauté.
+
+LAVOIR
+Recettes : +3 ou Marchandises
+Avantages : bonus aux jets de Vigueur effectués pour éviter de tomber malade.
+Création : 3 Marchandises, 3 Travail (120 po) 
+Durée : 8 jours
+Taille : 2-6 cases
+Un lavoir contient une large vasque pour tremper du linge ou des vêtements, un chaudron pour chauffer de l’eau, des planches à laver, des étendoirs, des caisses et des paniers pour porter le linge sec. Cette salle peut être à ciel ouvert et accolée à un bâtiment. Les employés et les usagers réguliers du lavoir gagnent un bonus de +1 aux jets de Vigueur effectués pour éviter de tomber malade tant qu’ils se trouvent à l’intérieur de la communauté.
+
+LOGEMENT
+Recettes : +12
+Création : 10 Marchandises, 1 Influence, 10 Travail (430 po) 
+Durée : 30 jours
+Taille : 20-35 cases
+Amélioration du: dortoir
+Cet endroit contient plusieurs petites chambres qui permettent de loger jusqu’à dix personnes. Chaque chambre offre un minimum d’intimité et d’espace. Elles contiennent généralement un ou deux petits lits, des draps, un pot de chambre, une petite table et une chaise. Les portes menant aux chambres sont en bois simple et dotées d’une serrure simple. Il est possible de remplacer chaque serrure en payant la différence de prix entre les deux.
+
+MEULE
+Recettes : +8 ou Marchandises
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 20 jours
+Taille : 20-30 cases
+Cette salle contient un mécanisme conçu pour moudre du grain, des denrées alimentaires et d’autres matières premières. La plupart des meules simples s’actionnent à la main. Celles qui fonctionnent en y attelant des chevaux ou d’autres animaux de bât nécessitent la présence d’une étable, celles qui tournent sous l’action de l’eau nécessitent la présence d’eau courante et celles qui fonctionnent sous l’action du vent nécessitent la présence d’un moulin à vent.
+
+MUR DÉFENSIF
+Création : 5 Marchandises, 2 Influence, 5 Travail (260 po) 
+Durée : 12 jours
+Taille : 20-40 cases
+C’est généralement un mur, une palissade en bois ou une simple clôture qui cerne un bâtiment et fournit un minimum
+de sécurité. Cette protection ne fait pas plus de trois mètres de haut (elle peut être escaladée grâce à un test d’Escalade DD 14) et comporte un unique portail doté d’une serrure moyenne. En payant le double du prix normal, le mur peut être construit en pierre jusqu’à une hauteur de six mètres, et peut être escaladé grâce à un test d’Escalade DD 20. S’il est combiné à un poste de garde, le mur possède un parapet où l’on peut patrouiller à pieds.
+
+PÉAGE
+Recettes : +4 ou Marchandises
+Création : 2 Marchandises, 1 Influence, 2 Travail (110 po) 
+Durée : : 6 jours
+Taille : 1-5 cases
+Amélioration en : poste de garde
+Un péage est un petit abri conçu pour filtrer la circulation sur une route ou un pont de manière à ce que son propriétaire collecte des taxes auprès des voyageurs. Si cette salle est construite à proximité d’une communauté, il faut dépenser 1 point d’Influence par jour pour maintenir son activité. Le péage peut également être illégal en fonction de la nature de la communauté proche.
+
+PIÈCE SECRÈTE
+Création : 5 Marchandises, 6 Travail (220 po) 
+Durée : 16 jours
+Taille : 6-10 cases
+Amélioration de : chambre-forte
+Amélioration en : issue de secours
+Cet endroit est soit une salle, soit un passage qui relie deux salles dans un bâtiment. On y entre en empruntant une porte secrète (DD 20). Deux portes secrètes peuvent être situées à chaque extrémité d’un passage, ou une porte normale à une extrémité et une porte secrète à l’autre. Dans le cas d’une salle, elle est le plus souvent utilisée pour cacher quelqu’un ou quelque chose. Dans le cas d’un passage, il permet de se déplacer sans être vu à l’intérieur d’un bâtiment, souvent dans le but d’espionner ou de déplacer des marchandises de contrebande. Pour chaque tranche de 500 po dépensées, vous pouvez améliorer le camouflage d’une porte secrète située dans le bâtiment (DD 30 pour la repérer).
+
+PONT-LEVIS
+Création : 8 Marchandises, 2 Influence, 5 Travail (320 po) 
+Durée : 6 jours
+Taille : 4-8 cases
+Ce pont escamotable enjambe une fosse, une douve ou un obstacle similaire, ce qui permet de contrôler l’accès à
+une zone. Le pont peut être levé ou abaissé par une action complexe consacrée à manipuler le mécanisme installé d’un
+côté ou de l’autre du pont. Une fois levé, le pont forme une barrière de bois (solidité 5, 40 points de résistance). S’il est détruit, il peut être reconstruit au même endroit en payant la moitié du prix de construction initial.
+
+POSTE DE GARDE
+Recettes : +4 ou Marchandises
+Avantages : les défenseurs gagnent un bonus aux tests d’initiative et de Perception.
+Création : 7 Marchandises, 2 Influence, 6 Travail (320 po) 
+Durée : 20 jours
+Taille : 6-10 cases
+Amélioration du : péage
+Amélioration en : bretèche
+Cette structure défensive bloque l’accès à un bâtiment. Elle est normalement agencée de façon à ce que les défenseurs aient une ligne de mire dégagée sur toutes les entrées de la salle et sur toutes les personnes en approche à l’extérieur du bâtiment. Il est possible de construire cette salle à l’intérieur d’une tour (sans coût supplémentaire) dont le premier étage est aussi considéré comme un poste de garde. Le prix indiqué inclut la rémunération des
+employés non-qualifiés en tant que gardes (hommes du peuple ou experts 1 avec des uniformes, mais sans arme ni armure). Si le bâtiment est une armurerie, ces employés sont équipés d’armes et d’armures qui servent surtout à impressionner. Si le personnage souhaite recruter des gardes entraînés capables de défendre le bâtiment contre des intrus dangereux, il devra louer les services de gardes professionnels ou recruter des gardes ou des soldats.
+Un individu qui exploite les aspects défensifs d’un poste de garde gagne un bonus de +1 aux tests d’initiative et de Perception effectués contre des intrus qui se trouvent dans cette salle.
+
+POSTE DE TRAVAIL
+Recettes : +8 ou Marchandises ou Influence
+Avantage : compte comme des outils d’artisan de qualité supérieure pour une compétence d’Artisanat ou de Profession.
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 8-16 cases
+Cette salle contient une table, une chaise et les outils d’artisan de qualité supérieure appropriés à la pratique d’une compétence d’Artisanat ou de Profession de votre choix lorsque votre personnage construit cette salle. Par exemple, si le poste de travail est conçu pour être utilisé par un charpentier, il contiendra des pinces, des scies, des clous, des marteaux et un atelier solide.Cette salle peut accueillir jusqu’à trois travailleurs à la fois.
+
+QUAI
+Recettes : +12 ou Marchandises ou Influence ou Travail
+Création : 7 Marchandises, 2 Influence, 6 Travail (320 po) 
+Durée : 20 jours
+Taille : 10-30 cases
+C’est une série de passerelles montées sur pilotis qui permettent d’amarrer en toute sécurité des embarcations. À proximité d’une remise, les quais permettent de déplacer facilement des cargaisons entre les embarcations et le lieu de stockage.
+
+RELIQUAIRE
+Recettes : +5 ou Influence
+Avantages : bonus aux tests de Connaissances (religion) en rapport avec ce qu’il contient
+Création : 4 Marchandises, 4 Travail, 1 Magie (260 po) 
+Durée : 12 jours
+Taille : 1-4 cases
+Amélioration en : chambre-forte
+Dédié à une divinité ou à une philosophie spécifique, un reliquaire est conçu pour stocker et protéger des artefacts religieux. Il contient des étagères sur lesquelles sont posés les objets, des vitrines d’exposition pour les protéger et parfois quelques tables et chaises pour les étudier. Une porte en bois solide ou une grille dotée d’une serrure
+de bonne qualité ferme l’entrée. À la différence d’une chambre-forte, un reliquaire est conçu pour permettre aux gens de contempler les objets qu’ils contiennent. Lorsque le reliquaire contient des reliques liées à la divinité ou à la philosophie correspondante, le reliquaire octroie un bonus de +1 aux tests de Connaissances (religion) liés à l’histoire, les pouvoirs et la fonction de ces reliques.
+
+REMISE
+Recettes : +2
+Création : 3 Marchandises, 3 Travail (120 po) 
+Durée : 8 jours
+Taille : 4-8 cases
+Amélioration de : société de façade, cabanon
+Amélioration en : bureau, chambre-forte
+Une remise est une salle conçue pour stocker des objets destinés à une utilisation ultérieure. La plupart des entrepôts sont un simple assemblage de plusieurs remises construites dans un seul et même bâtiment. Une boutique qui propose des articles bon marché peut autoriser ses clients à sélectionner leurs achats directement dans la remise. On y accède par une porte dotée d’une serrure de qualité moyenne.
+
+SALLE À MÂCHICOULIS
+Avantages : les défenseurs bénéficient d’un abri amélioré.
+Création : 4 Marchandises, 4 Travail (160 po) 
+Durée : 10 jours
+Taille : 4-8 cases
+Amélioration en : bretèche
+Cet espace aux parois percées de meurtrières ou dotées de moyens défensifs similaires procure aux défenseurs un avantage lorsqu’ils attaquent ou espionnent des intrus. Cette salle est dotée de portes en bois solide fermées par des serrures simples, ce qui permet aux défenseurs de piéger des intrus à l’intérieur. Un individu qui exploite les aspects défensifs de la salle à mâchicoulis bénéficie d’un abri amélioré contre des intrus situés à l’intérieur de la salle, même si ces moyens défensifs limitent les attaques que les défenseurs peuvent porter. Par exemple, un
+défenseur peut lancer un sort à travers une meurtrière, tirer avec un arc ou une arbalète, ou déverser de l’eau bouillante, mais il ne peut pas brandir une hache pour attaquer au corps à corps un adversaire situé de l’autre côté de la meurtrière.
+
+SALLE COMMUNE
+Recettes : +7 ou Influence
+Création : 7 Marchandises, 8 Travail (300 po) 
+Durée : 16 jours
+Taille : 10-30 cases
+Amélioration en : salle de bal, salle de cérémonie, salle du trône
+Cette salle polyvalente est suffisamment spacieuse pour
+accueillir beaucoup de monde. Une salle commune contient généralement des bancs, des chaises, des coussins, des
+paillasses, des sièges ou des tabourets et des tables.
+
+SALLE DE BAIN
+Recettes : +3 ou Influence
+Avantages : bonus aux jets de Vigueur contre les maladies
+Création : 3 Marchandises, 1 Influence, 2 Travail (130 po) 
+Durée : 8 jours
+Taille : 3-6 cases
+Amélioration du : sauna
+Une salle de bain contient une grande baignoire ou plusieurs bassins de taille réduite et un fourneau pour chauffer l’eau. Après avoir passé une heure dans cette salle, votre personnage gagne un bonus de +2 sur son prochain jet de Vigueur contre les maladies.
+
+SALLE DE BAL
+Recettes : +10 ou Influence
+Avantages : bonus aux tests de Représentation
+Création : 19 Marchandises, 19 Travail (760 po) 
+Durée : 40 jours
+Taille : 40-60 cases
+Amélioration en : auditorium
+Amélioration de : la salle commune
+Cette salle spacieuse et lumineuse est conçue pour y organiser des bals, des réceptions et divers événements
+élaborés. L’acoustique et la décoration supérieures confèrent un bonus de +2 aux tests de Représentation effectués. ici.
+
+SALLE DE CÉRÉMONIE
+Recettes : +10 Capitaux
+Avantages : bonus aux tests de Bluff, Diplomatie et Intimidation (voir ci-dessous)
+Création : 16 Marchandises, 2 Influence, 15 Travail, 5 Magie (1180 po) 
+Durée : 40 jours
+Taille : 40-100 cases
+Améliorations en : salle du trône
+Amélioration de : la salle commune
+C’est une salle spacieuse destinée à accueillir beaucoup de monde lors des événements importants tels que les services religieux, les réunions communales et les mariages. Elle contient souvent une zone surélevée sur laquelle se tiennent les intéressés ou le maître de cérémonie et des chaises pour ceux qui assistent à l'événement. Un individu qui dirige ou parle de manière officielle lors de l'événement gagne un bonus de +1 aux tests de Bluff, Diplomatie et Intimidation effectués pour influencer autrui lors de l'événement. Ce bonus disparaît à la fin de l'événement.
+
+SALLE DE CLASSE
+Recettes : +8 Capitaux
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) 
+Durée : 14 jours
+Taille : 5-20 cases
+Cette petite salle de réunion est conçue de manière à ce qu’un unique maître de conférences puisse être vu sans problème par de nombreux participants. Nombre de salles de classe contiennent des places assises pour les étudiants, un lutrin et un tableau.
+
+SALLE DE COMBAT
+Recettes : +15 ou Influence
+Avantages : un combattant gagne un bonus aux tests d’Intimidation et de combat de spectacle.
+Création : 18 Marchandises, 4 Influence, 16 Travail (800 po) 
+Durée : 40 jours
+Taille : 40-100 cases
+Amélioration en : Terrain de sport
+Cette salle contenant une arène fermée permet d’organiser des combats périlleux, depuis les sports non-létaux comme la lutte ou la boxe jusqu’aux pratiques létales et sanglantes comme les combats d’animaux ou de gladiateurs. Elle contient des sièges pour les spectateurs, un revêtement de sol approprié (des tapis ou du sable) et souvent une sorte de barrière située entre les combattants et le public. Chaque jour, le responsable de la salle de combat peut octroyer à un unique combattant un bonus de +2 aux tests d’Intimidation et de combat de spectacle (L’art de la guerre Pathfinder JdR, page 153). Cet avantage s’applique uniquement à l’intérieur de la communauté.
+
+SALLE DE GUERRE
+Avantage : bonus aux tests de compétence et de combat de masse pendant la préparation du conflit.
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 4-12 cases
+Cette salle est conçue pour préparer des manoeuvres militaires ou des braquages de premier ordre ou pour les briefings. Elle contient une grande table centrale entourée de plusieurs chaises, des cartes et des figurines représentant les troupes et les édifices. Lorsqu’elle est utilisée pour préparer une bataille, l’armée du personnage
+gagne un bonus de +2 aux tests d’attaque et de moral effectués lors de la prochaine bataille si elle a lieu dans les vingt-quatre heures qui suivent. Pour que l’armée puisse bénéficier de ce bonus, son commandant doit être présent lors de la séance de préparation de la bataille ou votre personnage doit trouver un moyen pour lui communiquer les plans. Lorsque cette salle est utilisée pour préparer une aventure (voir page 88), elle permet d’appliquer le bonus de préparation à deux tests de compétence au lieu d’un seul.
+
+SALLE DE JEUX
+Recettes : +10 (voir description)
+Avantages : Criminalité +1, Danger +10 (voir description)
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 10-20 cases
+Une salle de jeux contient des tables appropriées pour pratiquer des jeux d’argent ou autres. Elle permet également
+de parier sur divers participants aux sports violents ou autres activités illicites. Les recettes indiquées englobent la pratique de jeux illégaux. Si le bâtiment propose des jeux légaux (que ce soit pour le plaisir ou pour de l’argent), les recettes s’élèvent à +5 po (au lieu de +10) et les avantages sont les suivants : Criminalité +0, Danger +0.
+
+SALLE DES TROPHÉES
+Recettes : +5 ou Influence
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) 
+Durée : 16 jours
+Taille : 4-20 cases
+Cette pièce est conçue pour exposer les trophées récupérés lors d’une aventure, tels que des têtes de monstre empaillés, des peintures rares, des statues étranges et des objets magiques bizarres et désormais inutiles. À cause des vitrines d’exposition et de la pagaille qui règne dans cette salle, il est difficile de l’utiliser pour
+autre chose mais vous pouvez tout de même y mettre des chaises ou des bancs pour permettre aux gens de s’asseoir pendant qu’ils contemplent les trésors exposés. Si votre personnage souhaite utiliser ses trophées pour décorer une autre pièce au lieu de les exposer dans une salle des trophées, il devra construire l’extension d’ameublement. Un musée produit de l’argent en vendant desentrées aux visiteurs ou aux partenaires qui souhaitent contempler des objets similaires à ceux exposés dans une salle des trophées.
+
+SALLE DU TRÔNE
+Recettes : +15 Influence
+Avantages : bonus aux tests de Bluff, Diplomatie, Intimidation, Représentation et Connaissances (folklore local)
+Création : 25 Marchandises, 5 Influence, 25 Travail, 5 Magie (1650 po) 
+Durée : 40 jours
+Taille : 40-80 cases
+Amélioration de : salle de cérémonie, salle commune
+Une salle du trône est conçue pour accueillir des invités prestigieux tels que des nobles. Elle contient un trône, divers éléments décoratifs et quelques sièges pour les visiteurs. En consacrant une heure à converser avec les visiteurs, l’hôte gagne un bonus de +1 aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation effectués pour les influencer ou pour recueillir des informations sur eux pendant les vingt-quatre prochaines heures.
+
+SALLE PIÉGÉE
+Avantage : voir description
+Prix : voir description 
+Durée : voir description
+Taille : 1-4 cases
+Un piège peut être une salle à part entière dans un bâtiment ou un élément ajouté à une salle. Une salle piégée peut
+paraitre vide, mais elle peut également être décorée pour sembler anodine et attirer ainsi une victime dans le piège.
+Les prix des pièges sont indiqués dans le Manuel des Joueurs (page 429), leur fabrication nécessite l’application des règles sur l’Artisanat (page 90) mais vous pouvez dépenser des Marchandises et du Travail pour régler les coûts occasionnés.
+
+SALON
+Recettes : +4 Influence
+Avantage : bonus aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation
+Création : 12 Marchandises, 12 Travail (480 po) 
+Durée : 24 jours
+Taille : 6-10 cases
+Cette salle est un lieu de rencontre et de détente doté d’un mobilier confortable. Elle peut servir de salon, de salle à manger ou de fumoir, entre autres. Elle contient le mobilier approprié à sa fonction (des sièges pour un salon, une table et des chaises pour une salle à manger et ainsi de suite). En passant une heure en conversation aimable avec les invités présents dans cette salle, l’hôte gagne un bonus de +1 aux tests de Bluff, Diplomatie, Intimidation, Connaissances (folklore local) et Représentation effectués pour influencer ces invités ou pour recueillir des informations sur eux pendant les vingt-quatre prochaines heures.
+
+SANCTUAIRE
+Avantages : bonus à un jet de Volonté
+Création : 2 Marchandises, 1 Influence, 1 Travail, 1 Magie (190 po) 
+Durée : 6 jours
+Taille : 1-4 cases
+Cette pièce, décorée de manière plaisante et simple, avec des lignes claires et un environnement apaisant, est l’endroit idéal où méditer et prier seul. Un individu qui passe au moins 4 heures à ne rien faire d’autre que prier ou méditer dans un sanctuaire gagne un bonus de +1 aux jets de Volonté. Ce bonus disparaît dès que l’individu quitte la communauté ou après avoir effectué un jet de Volonté.
+
+SAUNA
+Recettes : +3 ou Influence
+Avantages : bonus aux jets de sauvegarde pour récupérer d’une maladie ou pour éliminer des niveaux négatifs subis.
+Création : 3 Marchandises, 3 Travail (120 po) 
+Durée : 8 jours
+Taille : 2-5 cases
+Amélioration en : salle de bain
+Cette pièce à l’agencement très simple contient des bancs, une source de chaleur centrale, des pierres et une cuve d’eau avec une louche pour produire de la vapeur. Un individu qui passe une heure dans un sauna gagne un bonus de +1 aux jets de sauvegarde effectués pour récupérer d’une maladie (et non pour éviter d’en contracter une) et aux jets de sauvegarde effectués pour éliminer les niveaux négatifs subis. Ce bonus disparaît au bout de vingt-quatre heures.
+
+SCRIPTORIUM
+Recettes : +5 ou Marchandises ou Influence ou Travail ou Magie
+Avantages : compte comme des outils d’artisan de qualité supérieure pour les compétences d’écriture.
+Création : 7 Marchandises, 2 Influence, 6 Travail (320 po) 
+Durée : 16 jours
+Taille : 5-16 cases
+Amélioration en : imprimerie
+C’est là que les scribes travaillent. Le scriptorium contient des chaises, des écritoires, ainsi que de l’encre, du papier et d’autres ustensiles nécessaires pour créer ou copier des oeuvres écrites. Cette salle peut accueillir jusqu’à trois travailleurs à la fois. Là, il peuvent écrire des parchemins ou utiliser les compétences Artisanat (calligraphie) ou Profession (scribe).
+
+SERRE
+Recettes : +12 ou Marchandises ou Influence
+Création : 8 Marchandises, 7 Travail (300 po) 
+Durée : 16 jours
+Taille : 10-20 cases
+Amélioration du : jardin
+Ce jardin bénéficiant d’une température volontairement régulée est à l’abri dans une serre de verre. Les plantes fragiles ou exotiques plantées dans cette serre évoluent en spécimens plus grands et plus robustes que ceux plantés dans un jardin classique. Certaines espèces de plantes rares poussent uniquement à sous serre.
+
+SITE FUNÉRAIRE
+Recettes : +4 ou Influence
+Avantages : permet de créer des morts-vivants ou de prévenir leur apparition.
+Création : 4 Marchandises, 3 Influence, 4 Travail, 1 Magie (350 po) 
+Durée : 8 jours
+Taille : 20-30 cases
+Amélioration en : crypte
+C’est dans ce sombre lopin de terre que sont inhumés les morts.on peut y enterrer jusqu’à vingt cadavres de taille M ou inférieure et chaque emplacement est clairement indiqué par une pierre tombale, une statue ou tout autre type d’élément similaire. Pour un coût supplémentaire de 200 po, l’endroit peut être consacré ou profané. Un cadavre enterré en terre consacrée ne peut être revenir sous forme de mort-vivant alors qu’un cadavre enterré en
+terre profanée a 5% de chances par mois de se relever sous forme de zombi incontrôlable. Si votre personnage améliore un site funéraire, il conserve l’effet de consécration ou de profanation.
+
+SOCIÉTÉ DE FAÇADE
+Recettes : +2 ou Marchandises
+Avantages : augmentation du DD des tests de Perception et de Psychologie
+Création : 4 Marchandises, 1 Influence, 4 Travail (190 po) ;
+Durée : 12 jours
+Taille : 10-20 cases
+Amélioration en : remise et étalage (voir ci-dessous)
+Cette entreprise simple et quelconque présente une façade inoffensive pour dissimuler des transactions criminelles. Elle peut ressembler à une boutique de prêteur sur gages bas de gamme ou à un étalage pauvrement fourni. Elle contient les éléments de base pour faire tourner le type d’entreprise factice, mais sa véritable fonction consiste à cacher la nature du bâtiment – généralement une entreprise criminelle ou un lieu de réunion secret, comme le sanctuaire d’un culte ou la planque de voleurs. La salle contient une porte secrète qui permet d’accéder au reste du bâtiment. Elle augmente le DD des tests de Perception et de Psychologie effectués par ceux qui tentent de repérer une activité
+anormale ou de déterminer la véritable nature du bâtiment. Puisqu’une société de façade présente à la fois un étalage et une zone de stockage factices, elle peut être améliorée en remise et en étalage de manière simultanée (vous pouvez ne faire qu’une amélioration, ce qui laisse de l’espace vacant).
+
+STABULATION
+Recettes : +8 ou Marchandises ou Travail
+Création : 6 Marchandises, 1 Influence, 5 Travail (250 po) 
+Durée : 16 jours
+Taille : 6-16 cases
+Amélioration en : abri pour animaux
+Une stabulation est utilisée pour mettre à l’abri 1 à 2 chevaux ou d’autres animaux domestiques de taille G. Elle contient des portes, des auges, du fourrage et de la paille.
+
+STATUE
+Recettes : +1 ou Influence
+Création : 1 Marchandises, 2 Travail (60 po) 
+Durée : 2 jours
+Taille : 1-9 cases
+Cet espace contient une statue, une fontaine ou un autre élément décoratif de grande taille. Si cet endroit a une signification religieuse, il peut faire office de chapelle. Le prix et la durée indiqués prennent en compte l’installation de l’élément seulement (qui peut être en bois, en bronze ou en pierre). Ils n’englobent pas le coût et la durée nécessaire pour créer l’élément. Toutefois, celui-ci doit être installé dans l’emplacement prévu pour pouvoir produire des recettes.
+
+TERRAIN DE SPORT
+Recettes : +10 ou Influence
+Création : 17 Marchandises, 3 Influence, 18 Travail (790 po) 
+Durée : 20 jours
+Taille : 40-100 cases
+Amélioration de : salle de combat
+Cette zone en plein air est utilisée pour pratiquer des joutes, des activités athlétiques, des combats et divers autres sports. Un terrain de sport contient le terrain à proprement parlé, des places assises pour le public et l’équipement nécessaire pour pratiquer un sport.

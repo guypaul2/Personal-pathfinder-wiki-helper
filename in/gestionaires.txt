@@ -1,0 +1,105 @@
+ABBÉ
+Salaire : 4 po/jour
+Compétences : Diplomatie, Premiers secours, Connaissances (folklore local), Connaissances (religion).
+Un abbé est un lanceur de sorts divins formé pour gérer les activités quotidiennes d’un temple ou d’une organisation
+religieuse, ainsi que celles de ses membres. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de
+niveau 3 qui possède une armure légère (ou aucune armure dans le cas d’un adepte) et une arme appropriée à sa foi.
+
+COMPTABLE
+Salaire : 3 po/jour
+Compétences : Estimation, Connaissances (folklore local),Linguistique, Profession (comptable).
+Un comptable tient à jour les comptes et veille à l’équilibre du budget d’un bâtiment ou d’une organisation. C’est le plus souvent un expert de niveau 3 qui ne sait pas combattre mais il appartenir à n’importe quelle classe qualifiée qui fait bon usage des caractéristiques mentales.
+
+CAPITAINE
+Salaire : 5 po/jour
+Compétences : Acrobaties, Diplomatie, Connaissances(géographie), Profession (marin).
+Un capitaine est un maître en matière de navigation maritime capable de gérer l’équipage et les activités d’un navire. C’est le plus souvent un expert, un roublard ou un guerrier de niveau 3. Un capitaine peut gérer une organisation commerciale, une flotte pirate ou une entreprise maritime ou fluviale de transport de passagers.
+
+MÉDECIN
+Salaire : 5 po/jour
+Compétences : Premiers secours, Perception, Psychologie, Survie.
+Un médecin est formé pour traiter toutes sortes de maladie et de blessures. C’est le plus souvent un adepte, un prêtre, un druide ou un oracle de niveau 3. Un expert peut également faire un médecin convenable qui traitera les maladies et soignera les blessures par l’application de moyens ordinaires seulement ou par l’utilisation d’objets magiques. Un médecin est généralement responsable d’un hôpital ou d’une organisation qui délivre des soins médicaux.
+
+MAÎTRE DE GUILDE (GUILDE D’ARTISANS)
+Salaire : 3 po/jour
+Compétences : Estimation, Artisanat (un au choix), Diplomatie, Profession (une au choix).
+Un maître de guilde d’artisans est un expert dans son domaine qui peut diriger un groupe d’artisans de même
+mentalité. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe de niveau 3. Un
+maître de guilde se charge de la gestion quotidienne d’une guilde d’artisans : l’administration de base, la formation des membres de la guilde et la pratique de son artisanat.
+
+MAÎTRE DE GUILDE (GUILDE DE VOLEURS)
+Salaire : 5 po/jour
+Compétences : Estimation, Bluff, Sabotage, Connaissances (folklore local).
+Un maître de guilde de voleurs gère les activités d’une organisation criminelle. C’est le plus souvent un barde, un
+prêtre, un expert, un roublard ou un ensorceleur de niveau 3. Un maître de guilde se charge de la gestion quotidienne d’une guilde de voleurs : l’administration de base, la formation des recrues et la préparation de nouvelles manigances.
+
+PROVISEUR
+Salaire : 3 po/jour
+Compétences : Diplomatie, Connaissances (deux au choix),Profession (une au choix).
+Un proviseur gère un lieu d’enseignement tel qu’une école de bardes, une académie de mages ou une Université. C’est le plus souvent un alchimiste, un barde, un expert, un roublard, un ensorceleur, un magicien ou une sorcière de niveau 3. La gestion d’un établissement d’enseignement supérieur consiste à s’occuper de l’administration de base, à enseigner et à effectuer des recherches.
+
+AUBERGISTE
+Salaire : 2 po/jour
+Compétences : Estimation, Diplomatie, Connaissances (folklore local), Profession (une au choix).
+Un aubergiste gère un établissement principalement conçu pour nourrir et loger ses clients. C’est le plus souvent un
+homme du peuple ou un expert de niveau 3, mais il peut également être un guerrier, un roublard ou un homme
+d’armes à la retraite. Un aubergiste supervise les activités quotidiennes d’une auberge, d’une taverne, d’un hôtel, d’un restaurant ou d’un club social privé et élitiste.
+
+LIEUTENANT
+Salaire : 4 po/jour
+Compétences : Diplomatie, Intimidation, Connaissances (ingénierie), Perception.
+Un lieutenant dirige une unité de gardes, de mercenaires ou de soldats. C’est le plus souvent un chevalier, un guerrier ou un rôdeur de niveau 3, mais il peut également être barbare, barde, inquisiteur, homme d’armes ou membre d’une classe experte en matière de combat. Un lieutenant gère les divers besoins et assignements des troupes, supervise leur entraînement et participe aux manœuvres militaires.
+
+MAÎTRE-FORGERON
+Salaire : 4 po/jour
+Compétences : Estimation, Artisanat (un au choix), Perception, Profession (une au choix).
+Un maître-forgeron gère une entreprise de fabrication. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une autre classe spécialisée de niveau 3. Un maître-forgeron gère les activités quotidiennes d’un site de production voué à un artisanat en particulier, forme les apprentis et travaille sur les articles les plus exigeants et les plus difficiles à fabriquer.
+
+AVOCAT ASSOCIÉ
+Salaire : 4 po/jour
+Compétences : Bluff, Diplomatie, Connaissances (une au choix), Profession (avocat).
+Un avocat associé est le directeur d’un cabinet d’avocats. C’est le plus souvent un barde, un expert, un roublard,
+un ensorceleur, un magicien ou un membre d’une autre classe spécialisée de niveau 3 qui s’appuie sur des valeurs
+de caractéristiques mentales élevées. Un avocat associé répond aux besoins juridiques d’une organisation.
+
+SENSEI
+Salaire : 2 po/jour
+Compétences : Acrobaties, Intimidation, Connaissances (histoire), Perception.
+Un sensei est en charge d’un dojo ou d’un monastère voué à la pratique des arts martiaux. C’est le plus souvent un moine de niveau 3 mais il peut également posséder plusieurs niveaux dans une classe martiale ou qui s’appuie sur une valeur de Sagesse élevée. Un sensei supervise l’entraînement des élèves et gère les activités quotidiennes de l’établissement.
+
+CONTREBANDIER
+Salaire : 3 po/jour
+Compétences : Estimation, Bluff, Connaissances (folklore local), Escamotage.
+Un contrebandier est un marchand qui a l’habitude de pratiquer sa profession sans se faire remarquer par les
+autorités locales. C’est le plus souvent un barde, un expert, un roublard ou un membre d’une classe de niveau 3
+spécialisée dans les subterfuges. Un contrebandier peut gérer les activités d’un marché noir, d’une caravane illégale
+ou d’une flottille de navires de contrebande.
+
+RÉGISSEUR
+Salaire : 2 po/jour
+Compétences : Diplomatie, Déguisement, Représentation (deux au choix).
+Un régisseur supervise les activités d’une organisation artistique ou d’un bâtiment consacré aux pratiques
+artistiques. C’est le plus souvent un expert de niveau 3, mais il peut également être barde, roublard ou membre
+d’une classe possédant des compétences adaptées à la pratique des beaux-arts. Un régisseur passe ses journées à
+superviser les activités d’un théâtre, à former les acteurs et à promouvoir les spectacles de l’établissement.
+
+INTENDANT
+Salaire : 2 po/jour
+Compétences : Diplomatie, Connaissances (folklore local), Connaissances (noblesse), Psychologie.
+Un intendant s’occupe d’un grand bâtiment résidentiel comme un château, un manoir ou une villa de noble. C’est
+le plus souvent un adepte, un homme du peuple ou un expert de niveau 3. Il gère les activités quotidiennes d’un
+domaine, coordonne le travail des domestiques, discipline ceux dont le travail n’est pas satisfaisant et veille à ce que les désirs des seigneurs et des dames de la demeure soient toujours satisfaits.
+
+SECOND DE SYNDICAT DU CRIME
+Salaire : 2 po/jour
+Compétences : Estimation, Bluff, Intimidation,Connaissances (folklore local).
+Un second de syndicat du crime applique les ordres directs d’un parrain du crime ou d’un individu à la tête d’une
+organisation criminelle violente. C’est le plus souvent un barde, un prêtre, un expert, un guerrier ou un roublard de
+niveau 3. Il applique les ordres de son supérieur, poursuit les objectifs de l’organisation et supervise les subordonnés.
+
+GARDIEN
+Salaire : 2 po/jour
+Compétences : Diplomatie, Intimidation, Connaissances (folklore local), Psychologie.
+Un gardien supervise le fonctionnement d’une prison, d’un donjon ou d’un endroit où sont détenus des prisonniers.
+C’est le plus souvent un prêtre, un expert, un guerrier, un inquisiteur, un homme d’armes de niveau 3 ou un membre
+d’une classe adaptée au combat et à la roublardise. Un gardien répond aux besoins des détenues et des gardes qui travaillent dans la prison et veille au bon fonctionnement du site.

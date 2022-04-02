@@ -1,0 +1,30 @@
+<table class="page espace-col deuxcol"><tr><td>
+{s:Reference|NONBAT}
+<div class=BD>
+{s:BDTitre|FORTIFICATION (EXTENSION)
+|{s:gc}}
+'''Avantage''' : augmente la solidité d’une salle{br}
+'''Création''' : 8 Marchandises, 7 Travail (300 po) ; Durée 30 jours{br}
+'''Taille''' : comme la salle d’origine{br}
+(((Description)))
+Cette extension peut s’appliquer à n’importe quelle salle. Elle permet de renforcer les murs, d’améliorer la solidité des portes et de traiter ou de remplacer les matériaux inflammables. Lors de l’achat de cette extension, la solidité des murs de la salle est augmentée de +2, le bois des portes est plus solide (solidité 5, points de résistance 20) et les parois et le sol bénéficient d’une résistance au feu 5. Cette extension ne s’applique pas aux objets
+contenus dans la pièce (par exemple, la fortification d’une bibliothèque affecte sa structure et non les livres qu’elle contient).
+</div>
+
+{s:Reference|NONBAT}
+<div class=BD>
+{s:BDTitre|AMEUBLEMENT (EXTENSION)
+|{s:gc}}
+'''Recettes''' : +5 au test de la salle effectué pour produire des capitaux.{br}
+'''Création''' : 9 Marchandises, 6 Travail (300 po) ; Durée 20 jours{br}
+'''Taille''' : comme la salle d’origine{br}
+(((Description)))
+Cette extension permet de garnir une salle avec des éléments décoratifs, tels que des lambris, un revêtement de sol en marbre, des tasses à thé en porcelaine, des peintures d’un grand réalisme et des lits à baldaquin. La décoration est adaptée à la fonction de la salle et du bâtiment. Par exemple, si cette extension est appliquée à un bar fréquenté par des soldats, elle se composera de blasons patriotiques et de placards à la mémoire des héros de guerre.
+</div>
+
+{s:Reference|NONBAT}
+<div class=BD>
+{s:BDTitre|PIÈGE (EXTENSION)
+|{s:gc}}
+</div>
+</td></tr></table>
