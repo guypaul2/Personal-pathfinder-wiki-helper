@@ -9,16 +9,16 @@ Basically this is a auto-text formating script for wikis :
 
 By copying raw text from a PDF of rules of tabletop roleplaying game we can change :
 
-### changing :
-
+### Changing :
+```
 FORTIFICATION (EXTENSION)
 Avantage : augmente la solidité d’une salle
 Création : 8 Marchandises, 7 Travail (300 po) ; Durée 30 jours
 Taille : comme la salle d’origine
 Cette extension peut s’appliquer à n’importe quelle salle. Elle permet de renforcer les murs, d’améliorer la solidité des portes et de traiter ou de remplacer les matériaux inflammables. Lors de l’achat de cette extension, la solidité des murs de la salle est augmentée de +2, le bois des portes est plus solide (solidité 5, points de résistance 20) et les parois et le sol bénéficient d’une résistance au feu 5. Cette extension ne s’applique pas aux objets
 contenus dans la pièce (par exemple, la fortification d’une bibliothèque affecte sa structure et non les livres qu’elle contient).
-
-### into :
+```
+### Into :
 ```
 <table class="page espace-col deuxcol"><tr><td>
 {s:Reference|NONBAT}
